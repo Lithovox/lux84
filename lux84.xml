@@ -1,0 +1,4900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Jonathan Chandler\Documents\KiCad\lux84\lux84.sch</source>
+    <date>25-Mar-21 11:06:45</date>
+    <tool>Eeschema (5.1.4)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lux84.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDA2A9F</tstamp>
+    </comp>
+    <comp ref="S1">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U-encodermount</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DD9EA43</tstamp>
+    </comp>
+    <comp ref="D17">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB62A9</tstamp>
+    </comp>
+    <comp ref="S17">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB62AF</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB6F6A</tstamp>
+    </comp>
+    <comp ref="S2">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB6F70</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB793C</tstamp>
+    </comp>
+    <comp ref="S3">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB7942</tstamp>
+    </comp>
+    <comp ref="D18">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB843D</tstamp>
+    </comp>
+    <comp ref="S18">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB8443</tstamp>
+    </comp>
+    <comp ref="D19">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB93FA</tstamp>
+    </comp>
+    <comp ref="S19">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDB9400</tstamp>
+    </comp>
+    <comp ref="D32">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBA369</tstamp>
+    </comp>
+    <comp ref="S32">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.5U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBA36F</tstamp>
+    </comp>
+    <comp ref="D47">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBB085</tstamp>
+    </comp>
+    <comp ref="S47">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.75U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBB08B</tstamp>
+    </comp>
+    <comp ref="D61">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBBEC1</tstamp>
+    </comp>
+    <comp ref="S61">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_2.25U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBBEC7</tstamp>
+    </comp>
+    <comp ref="D75">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBCA72</tstamp>
+    </comp>
+    <comp ref="S75">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.25U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBCA78</tstamp>
+    </comp>
+    <comp ref="D76">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBDE4D</tstamp>
+    </comp>
+    <comp ref="S76">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.25U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBDE53</tstamp>
+    </comp>
+    <comp ref="D77">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBF681</tstamp>
+    </comp>
+    <comp ref="S77">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.25U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDBF687</tstamp>
+    </comp>
+    <comp ref="D33">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC10B2</tstamp>
+    </comp>
+    <comp ref="S33">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC10B8</tstamp>
+    </comp>
+    <comp ref="D48">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC278F</tstamp>
+    </comp>
+    <comp ref="S48">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC2795</tstamp>
+    </comp>
+    <comp ref="D62">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC43D9</tstamp>
+    </comp>
+    <comp ref="S62">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC43DF</tstamp>
+    </comp>
+    <comp ref="D63">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC558C</tstamp>
+    </comp>
+    <comp ref="S63">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC5592</tstamp>
+    </comp>
+    <comp ref="D49">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC6B70</tstamp>
+    </comp>
+    <comp ref="S49">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC6B76</tstamp>
+    </comp>
+    <comp ref="D34">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC8762</tstamp>
+    </comp>
+    <comp ref="S34">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC8768</tstamp>
+    </comp>
+    <comp ref="D20">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC9EE0</tstamp>
+    </comp>
+    <comp ref="S20">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDC9EE6</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCBCD1</tstamp>
+    </comp>
+    <comp ref="S4">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCBCD7</tstamp>
+    </comp>
+    <comp ref="D5">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCD78A</tstamp>
+    </comp>
+    <comp ref="S5">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCD790</tstamp>
+    </comp>
+    <comp ref="D21">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCF3C4</tstamp>
+    </comp>
+    <comp ref="S21">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDCF3CA</tstamp>
+    </comp>
+    <comp ref="D6">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD1E98</tstamp>
+    </comp>
+    <comp ref="S6">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD1E9E</tstamp>
+    </comp>
+    <comp ref="D22">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD3E63</tstamp>
+    </comp>
+    <comp ref="S22">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD3E69</tstamp>
+    </comp>
+    <comp ref="D23">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD6662</tstamp>
+    </comp>
+    <comp ref="S23">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD6668</tstamp>
+    </comp>
+    <comp ref="D7">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD900E</tstamp>
+    </comp>
+    <comp ref="S7">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDD9014</tstamp>
+    </comp>
+    <comp ref="D8">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDBB46</tstamp>
+    </comp>
+    <comp ref="S8">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDBB4C</tstamp>
+    </comp>
+    <comp ref="D24">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDE7E3</tstamp>
+    </comp>
+    <comp ref="S24">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDDE7E9</tstamp>
+    </comp>
+    <comp ref="D25">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE1BEC</tstamp>
+    </comp>
+    <comp ref="S25">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE1BF2</tstamp>
+    </comp>
+    <comp ref="D9">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE5AE6</tstamp>
+    </comp>
+    <comp ref="S9">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE5AEC</tstamp>
+    </comp>
+    <comp ref="D10">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE90EE</tstamp>
+    </comp>
+    <comp ref="S10">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDE90F4</tstamp>
+    </comp>
+    <comp ref="D26">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDEC975</tstamp>
+    </comp>
+    <comp ref="S26">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDEC97B</tstamp>
+    </comp>
+    <comp ref="D27">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF04AE</tstamp>
+    </comp>
+    <comp ref="S27">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF04B4</tstamp>
+    </comp>
+    <comp ref="D11">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF43EC</tstamp>
+    </comp>
+    <comp ref="S11">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF43F2</tstamp>
+    </comp>
+    <comp ref="D12">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF88DE</tstamp>
+    </comp>
+    <comp ref="S12">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDF88E4</tstamp>
+    </comp>
+    <comp ref="D28">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFCD7B</tstamp>
+    </comp>
+    <comp ref="S28">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DDFCD81</tstamp>
+    </comp>
+    <comp ref="D29">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE01384</tstamp>
+    </comp>
+    <comp ref="S29">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0138A</tstamp>
+    </comp>
+    <comp ref="D13">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE067AE</tstamp>
+    </comp>
+    <comp ref="S13">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE067B4</tstamp>
+    </comp>
+    <comp ref="D14">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0C004</tstamp>
+    </comp>
+    <comp ref="S14">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE0C00A</tstamp>
+    </comp>
+    <comp ref="D15">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE11AF5</tstamp>
+    </comp>
+    <comp ref="S15">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE11AFB</tstamp>
+    </comp>
+    <comp ref="D16">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE17DCD</tstamp>
+    </comp>
+    <comp ref="S16">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U-encodermount</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE17DD3</tstamp>
+    </comp>
+    <comp ref="D30">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE1DEB8</tstamp>
+    </comp>
+    <comp ref="S30">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_2U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE1DEBE</tstamp>
+    </comp>
+    <comp ref="D31">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE24593</tstamp>
+    </comp>
+    <comp ref="S31">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE24599</tstamp>
+    </comp>
+    <comp ref="D46">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE2B320</tstamp>
+    </comp>
+    <comp ref="S46">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE2B326</tstamp>
+    </comp>
+    <comp ref="D60">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE31F80</tstamp>
+    </comp>
+    <comp ref="S60">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE31F86</tstamp>
+    </comp>
+    <comp ref="D74">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE38EF2</tstamp>
+    </comp>
+    <comp ref="S74">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE38EF8</tstamp>
+    </comp>
+    <comp ref="D84">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE40F83</tstamp>
+    </comp>
+    <comp ref="S84">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE40F89</tstamp>
+    </comp>
+    <comp ref="D35">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE49CE8</tstamp>
+    </comp>
+    <comp ref="S35">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE49CEE</tstamp>
+    </comp>
+    <comp ref="D36">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE51E39</tstamp>
+    </comp>
+    <comp ref="S36">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE51E3F</tstamp>
+    </comp>
+    <comp ref="D37">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE5A55B</tstamp>
+    </comp>
+    <comp ref="S37">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE5A561</tstamp>
+    </comp>
+    <comp ref="D38">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE63560</tstamp>
+    </comp>
+    <comp ref="S38">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE63566</tstamp>
+    </comp>
+    <comp ref="D39">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE6C9C8</tstamp>
+    </comp>
+    <comp ref="S39">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE6C9CE</tstamp>
+    </comp>
+    <comp ref="D40">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE75EF5</tstamp>
+    </comp>
+    <comp ref="S40">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE75EFB</tstamp>
+    </comp>
+    <comp ref="D41">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE8043F</tstamp>
+    </comp>
+    <comp ref="S41">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE80445</tstamp>
+    </comp>
+    <comp ref="D42">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE8A8E4</tstamp>
+    </comp>
+    <comp ref="S42">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE8A8EA</tstamp>
+    </comp>
+    <comp ref="D43">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE95908</tstamp>
+    </comp>
+    <comp ref="S43">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DE9590E</tstamp>
+    </comp>
+    <comp ref="D44">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEA0C95</tstamp>
+    </comp>
+    <comp ref="S44">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEA0C9B</tstamp>
+    </comp>
+    <comp ref="D45">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEACB6B</tstamp>
+    </comp>
+    <comp ref="S45">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.5U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEACB71</tstamp>
+    </comp>
+    <comp ref="D50">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEB8925</tstamp>
+    </comp>
+    <comp ref="S50">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEB892B</tstamp>
+    </comp>
+    <comp ref="D51">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEC51D6</tstamp>
+    </comp>
+    <comp ref="S51">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEC51DC</tstamp>
+    </comp>
+    <comp ref="D52">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DED2745</tstamp>
+    </comp>
+    <comp ref="S52">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DED274B</tstamp>
+    </comp>
+    <comp ref="D53">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEDFF0A</tstamp>
+    </comp>
+    <comp ref="S53">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEDFF10</tstamp>
+    </comp>
+    <comp ref="D54">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEEE7C3</tstamp>
+    </comp>
+    <comp ref="S54">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEEE7C9</tstamp>
+    </comp>
+    <comp ref="D55">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEFD726</tstamp>
+    </comp>
+    <comp ref="S55">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DEFD72C</tstamp>
+    </comp>
+    <comp ref="D56">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF0CE15</tstamp>
+    </comp>
+    <comp ref="S56">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF0CE1B</tstamp>
+    </comp>
+    <comp ref="D57">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF1E07A</tstamp>
+    </comp>
+    <comp ref="S57">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF1E080</tstamp>
+    </comp>
+    <comp ref="D58">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF2E27F</tstamp>
+    </comp>
+    <comp ref="S58">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF2E285</tstamp>
+    </comp>
+    <comp ref="D59">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3EA40</tstamp>
+    </comp>
+    <comp ref="S59">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_2.25U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF3EA46</tstamp>
+    </comp>
+    <comp ref="D64">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF51781</tstamp>
+    </comp>
+    <comp ref="S64">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF51787</tstamp>
+    </comp>
+    <comp ref="D65">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF638C2</tstamp>
+    </comp>
+    <comp ref="S65">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF638C8</tstamp>
+    </comp>
+    <comp ref="D66">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF75FBF</tstamp>
+    </comp>
+    <comp ref="S66">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF75FC5</tstamp>
+    </comp>
+    <comp ref="D67">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF889AA</tstamp>
+    </comp>
+    <comp ref="S67">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF889B0</tstamp>
+    </comp>
+    <comp ref="D68">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF9C53F</tstamp>
+    </comp>
+    <comp ref="S68">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF9C545</tstamp>
+    </comp>
+    <comp ref="D69">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFB05C6</tstamp>
+    </comp>
+    <comp ref="S69">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFB05CC</tstamp>
+    </comp>
+    <comp ref="D70">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFC4C59</tstamp>
+    </comp>
+    <comp ref="S70">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFC4C5F</tstamp>
+    </comp>
+    <comp ref="D71">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFDA056</tstamp>
+    </comp>
+    <comp ref="S71">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFDA05C</tstamp>
+    </comp>
+    <comp ref="D72">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFEFFDF</tstamp>
+    </comp>
+    <comp ref="S72">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.75U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DFEFFE5</tstamp>
+    </comp>
+    <comp ref="D73">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E007122</tstamp>
+    </comp>
+    <comp ref="S73">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E007128</tstamp>
+    </comp>
+    <comp ref="D83">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E01EE04</tstamp>
+    </comp>
+    <comp ref="S83">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E01EE0A</tstamp>
+    </comp>
+    <comp ref="D82">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E036694</tstamp>
+    </comp>
+    <comp ref="S82">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E03669A</tstamp>
+    </comp>
+    <comp ref="D81">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04DD24</tstamp>
+    </comp>
+    <comp ref="S81">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E04DD2A</tstamp>
+    </comp>
+    <comp ref="D80">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E065FDF</tstamp>
+    </comp>
+    <comp ref="S80">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E065FE5</tstamp>
+    </comp>
+    <comp ref="D79">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E07F055</tstamp>
+    </comp>
+    <comp ref="S79">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E07F05B</tstamp>
+    </comp>
+    <comp ref="D118">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF17208</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>IS31FL3733-TQ</value>
+      <footprint>SamacSys_Parts2:ComboQFN+QFP(48)-under6mil</footprint>
+      <datasheet>http://www.issi.com/WW/pdf/IS31FL3733.pdf</datasheet>
+      <libsource lib="Driver_LED" part="IS31FL3733-TQ" description="12x16 LED matrix driver with 8-bit PWM and breathing, TQFP-48"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF1AB6A</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>220k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E79A43D</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E925E69</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>22p</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E98C866</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH</value>
+      <footprint>SamacSys_Parts2:L_Wuerth_MAPI-2512</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="L_Small" description="Inductor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EABC224</tstamp>
+    </comp>
+    <comp ref="PS1">
+      <value>AP3429KTTR-G1</value>
+      <footprint>SamacSys_Parts2:SOT95P285X130-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AP3429KTTR-G1.pdf</datasheet>
+      <fields>
+        <field name="Description">Switching Voltage Regulators 1.0MHz 2A Step Down Latch Off Protection</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">AP3429KTTR-G1</field>
+        <field name="Mouser Part Number">621-AP3429KTTR-G1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=621-AP3429KTTR-G1</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="AP3429KTTR-G1" description="Switching Voltage Regulators 1.0MHz 2A Step Down Latch Off Protection"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E66DD42</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>100u</value>
+      <footprint>SamacSys_Parts2:7343-Nonpolar_Hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EDFF901</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>AP22802AW5-7</value>
+      <footprint>SamacSys_Parts2:SOT95P285X130-5N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/AP22802AW5-7.pdf</datasheet>
+      <fields>
+        <field name="Description">DiodesZetex AP22802AW5-7 Load Switch IC, Power Distribution, 2A, 2.7  5.5V, 5-Pin, SOT-25</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">AP22802AW5-7</field>
+        <field name="Mouser Part Number">621-AP22802AW5-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=621-AP22802AW5-7</field>
+        <field name="RS Part Number">9210455P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9210455P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="AP22802AW5-7" description="DiodesZetex AP22802AW5-7 Load Switch IC, Power Distribution, 2A, 2.7  5.5V, 5-Pin, SOT-25"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5DF9BE92</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>100u</value>
+      <footprint>SamacSys_Parts2:7343-Nonpolar_Hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F248C74</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E0FE326</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64AB9D77</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64ABA218</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64ABA5CA</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64ABAE4B</tstamp>
+    </comp>
+    <comp ref="SW4">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>SamacSys_Parts2:PEC11R4220KS0024-encoderdown</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64DD43FE</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64B5A35B</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>AP2127K-3.3</value>
+      <footprint>TO_SOT_Packages_SMD:SOT-23-5_HandSoldering</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/AP2127.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="AP2127K-3.3" description="300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 3.3V fixed positive output, SOT-23-5 package"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>638FA708</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>605201FC</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6051F654</tstamp>
+    </comp>
+    <comp ref="USB1">
+      <value>HRO-TYPE-C-31-M-12</value>
+      <footprint>SamacSys_Parts2:HRO-TYPE-C-31-M-12-HandSoldering</footprint>
+      <libsource lib="Type-C" part="HRO-TYPE-C-31-M-12" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>600978F5</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61206067</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>SamacSys_Parts2:SW_SPST_TL3342</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>613090A6</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>SamacSys_Parts2:SW_SPST_TL3342</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61841DEF</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>618CA276</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64B564A1</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64B56A63</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64B56DA5</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64B5719F</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>STM32F072CBTx</value>
+      <footprint>Housings_QFP:LQFP-48_7x7mm_Pitch0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf</datasheet>
+      <libsource lib="MCU_ST_STM32F0" part="STM32F072CBTx" description="ARM Cortex-M0 MCU, 128KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E1D14F3</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>USBUF01W6</value>
+      <footprint>SamacSys_Parts2:SOT65P210X110-6N</footprint>
+      <datasheet>http://www.st.com/web/en/resource/technical/document/datasheet/CD00002046.pdf</datasheet>
+      <fields>
+        <field name="Allied Price/Stock">http://www.alliedelec.com/stmicroelectronics-usbuf01w6/70389692/</field>
+        <field name="Allied_Number">70389692</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">USBUF01W6</field>
+        <field name="Mouser Part Number">511-USBUF01W6</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=511-USBUF01W6</field>
+        <field name="RS Part Number">0250640P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0250640P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="USBUF01W6" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F46255E</tstamp>
+    </comp>
+    <comp ref="LS1">
+      <value>PKMCS0909E4000-R1</value>
+      <footprint>SamacSys_Parts2:PKMCS</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</datasheet>
+      <fields>
+        <field name="Description">Piezo Buzzer 9x9mm 4kHz 1.9mm Murata Maximum of +/-12.5 V 65dB SMD Sounder External Piezo Buzzer, Maximum of 4 kHz</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">PKMCS0909E4000-R1</field>
+        <field name="Mouser Part Number">81-PKMCS0909E4000-R1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-PKMCS0909E4000-R1</field>
+        <field name="RS Part Number">9010898P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9010898P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="PKMCS0909E4000-R1" description="Piezo Buzzer 9x9mm 4kHz 1.9mm Murata Maximum of +/-12.5 V 65dB SMD Sounder External Piezo Buzzer, Maximum of 4 kHz"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E607C7B</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F14223C</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F864DCA</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FD47469</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5FF1E3EF</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6019A951</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6023A8B3</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>IS31FL3733-TQ</value>
+      <footprint>SamacSys_Parts2:ComboQFN+QFP(48)-under6mil</footprint>
+      <datasheet>http://www.issi.com/WW/pdf/IS31FL3733.pdf</datasheet>
+      <libsource lib="Driver_LED" part="IS31FL3733-TQ" description="12x16 LED matrix driver with 8-bit PWM and breathing, TQFP-48"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B08</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>100u</value>
+      <footprint>SamacSys_Parts2:7343-Nonpolar_Hand</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B36</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B3C</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B42</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B48</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B50</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B65</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B73</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>100n</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B7D</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>20k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>609A1B8E</tstamp>
+    </comp>
+    <comp ref="D103">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E418157</tstamp>
+    </comp>
+    <comp ref="D104">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E418C0F</tstamp>
+    </comp>
+    <comp ref="D88">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E419544</tstamp>
+    </comp>
+    <comp ref="D89">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F2458</tstamp>
+    </comp>
+    <comp ref="D105">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F245E</tstamp>
+    </comp>
+    <comp ref="D106">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F2464</tstamp>
+    </comp>
+    <comp ref="D90">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F246A</tstamp>
+    </comp>
+    <comp ref="D91">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5BEE7F</tstamp>
+    </comp>
+    <comp ref="D107">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5BEE85</tstamp>
+    </comp>
+    <comp ref="D108">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5BEE8B</tstamp>
+    </comp>
+    <comp ref="D92">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E5BEE91</tstamp>
+    </comp>
+    <comp ref="D93">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E689D8C</tstamp>
+    </comp>
+    <comp ref="D109">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E689D92</tstamp>
+    </comp>
+    <comp ref="D110">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E689D98</tstamp>
+    </comp>
+    <comp ref="D94">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E689D9E</tstamp>
+    </comp>
+    <comp ref="D95">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E754BA9</tstamp>
+    </comp>
+    <comp ref="D111">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E754BAF</tstamp>
+    </comp>
+    <comp ref="D112">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E754BB5</tstamp>
+    </comp>
+    <comp ref="D96">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E754BBB</tstamp>
+    </comp>
+    <comp ref="D97">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E82182A</tstamp>
+    </comp>
+    <comp ref="D113">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E821830</tstamp>
+    </comp>
+    <comp ref="D114">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E821836</tstamp>
+    </comp>
+    <comp ref="D98">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E82183C</tstamp>
+    </comp>
+    <comp ref="D99">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E8ECD2D</tstamp>
+    </comp>
+    <comp ref="D115">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E8ECD33</tstamp>
+    </comp>
+    <comp ref="D116">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E8ECD39</tstamp>
+    </comp>
+    <comp ref="D100">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E8ECD3F</tstamp>
+    </comp>
+    <comp ref="D101">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E9B7F04</tstamp>
+    </comp>
+    <comp ref="D117">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E9B7F10</tstamp>
+    </comp>
+    <comp ref="D102">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E9B7F16</tstamp>
+    </comp>
+    <comp ref="D159">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA82B77</tstamp>
+    </comp>
+    <comp ref="D171">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA82B7D</tstamp>
+    </comp>
+    <comp ref="D172">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA82B83</tstamp>
+    </comp>
+    <comp ref="D160">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EA82B89</tstamp>
+    </comp>
+    <comp ref="D131">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EB4CFBC</tstamp>
+    </comp>
+    <comp ref="D145">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EB4CFC2</tstamp>
+    </comp>
+    <comp ref="D146">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EB4CFC8</tstamp>
+    </comp>
+    <comp ref="D132">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EB4CFCE</tstamp>
+    </comp>
+    <comp ref="D133">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC184E8</tstamp>
+    </comp>
+    <comp ref="D147">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC194CB</tstamp>
+    </comp>
+    <comp ref="D161">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC19EAC</tstamp>
+    </comp>
+    <comp ref="D119">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1AAB2</tstamp>
+    </comp>
+    <comp ref="D120">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1B913</tstamp>
+    </comp>
+    <comp ref="D134">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1C44B</tstamp>
+    </comp>
+    <comp ref="D135">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1D0CB</tstamp>
+    </comp>
+    <comp ref="D162">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1E48C</tstamp>
+    </comp>
+    <comp ref="D163">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1F530</tstamp>
+    </comp>
+    <comp ref="D148">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC1FF12</tstamp>
+    </comp>
+    <comp ref="D149">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC20A4F</tstamp>
+    </comp>
+    <comp ref="D121">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC21910</tstamp>
+    </comp>
+    <comp ref="D122">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC22388</tstamp>
+    </comp>
+    <comp ref="D136">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC22E85</tstamp>
+    </comp>
+    <comp ref="D137">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC23C36</tstamp>
+    </comp>
+    <comp ref="D150">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC246B5</tstamp>
+    </comp>
+    <comp ref="D151">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC2565E</tstamp>
+    </comp>
+    <comp ref="D123">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC264E6</tstamp>
+    </comp>
+    <comp ref="D124">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC27031</tstamp>
+    </comp>
+    <comp ref="D138">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC292B7</tstamp>
+    </comp>
+    <comp ref="D152">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC2A0D4</tstamp>
+    </comp>
+    <comp ref="D139">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC2ADBB</tstamp>
+    </comp>
+    <comp ref="D153">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E908</tstamp>
+    </comp>
+    <comp ref="D125">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E90E</tstamp>
+    </comp>
+    <comp ref="D126">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E914</tstamp>
+    </comp>
+    <comp ref="D140">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E91A</tstamp>
+    </comp>
+    <comp ref="D141">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E920</tstamp>
+    </comp>
+    <comp ref="D154">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E926</tstamp>
+    </comp>
+    <comp ref="D155">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E92C</tstamp>
+    </comp>
+    <comp ref="D127">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E932</tstamp>
+    </comp>
+    <comp ref="D128">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E938</tstamp>
+    </comp>
+    <comp ref="D129">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E93E</tstamp>
+    </comp>
+    <comp ref="D142">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E944</tstamp>
+    </comp>
+    <comp ref="D156">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E94A</tstamp>
+    </comp>
+    <comp ref="D143">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5EC7E950</tstamp>
+    </comp>
+    <comp ref="D130">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED47609</tstamp>
+    </comp>
+    <comp ref="D144">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED48608</tstamp>
+    </comp>
+    <comp ref="D157">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED49733</tstamp>
+    </comp>
+    <comp ref="D167">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4A497</tstamp>
+    </comp>
+    <comp ref="D168">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4B36E</tstamp>
+    </comp>
+    <comp ref="D169">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4BCE6</tstamp>
+    </comp>
+    <comp ref="D170">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4C6B6</tstamp>
+    </comp>
+    <comp ref="D158">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4D6B2</tstamp>
+    </comp>
+    <comp ref="D165">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5ED4E827</tstamp>
+    </comp>
+    <comp ref="D188">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B8BA85</tstamp>
+    </comp>
+    <comp ref="D164">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B8C6F9</tstamp>
+    </comp>
+    <comp ref="D166">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61B8FFD7</tstamp>
+    </comp>
+    <comp ref="D78">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C7E275</tstamp>
+    </comp>
+    <comp ref="S78">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_1.75U</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>61C7E27B</tstamp>
+    </comp>
+    <comp ref="D174">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62704E23</tstamp>
+    </comp>
+    <comp ref="D175">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62706FDA</tstamp>
+    </comp>
+    <comp ref="D176">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62707DAA</tstamp>
+    </comp>
+    <comp ref="D177">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62708DAF</tstamp>
+    </comp>
+    <comp ref="D199">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62820A16</tstamp>
+    </comp>
+    <comp ref="D198">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62820A1C</tstamp>
+    </comp>
+    <comp ref="D197">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62820A22</tstamp>
+    </comp>
+    <comp ref="D196">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62820A28</tstamp>
+    </comp>
+    <comp ref="D195">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62820A2E</tstamp>
+    </comp>
+    <comp ref="D190">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62FBB53F</tstamp>
+    </comp>
+    <comp ref="D192">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>630AFD68</tstamp>
+    </comp>
+    <comp ref="D200">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E5020A</tstamp>
+    </comp>
+    <comp ref="D205">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E50210</tstamp>
+    </comp>
+    <comp ref="D204">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E50216</tstamp>
+    </comp>
+    <comp ref="D203">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E5021C</tstamp>
+    </comp>
+    <comp ref="D202">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E50222</tstamp>
+    </comp>
+    <comp ref="D201">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>64E50228</tstamp>
+    </comp>
+    <comp ref="D206">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>650C8EC6</tstamp>
+    </comp>
+    <comp ref="D207">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>650C8ECF</tstamp>
+    </comp>
+    <comp ref="D178">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8458</tstamp>
+    </comp>
+    <comp ref="D179">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8461</tstamp>
+    </comp>
+    <comp ref="D184">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8467</tstamp>
+    </comp>
+    <comp ref="D183">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F846D</tstamp>
+    </comp>
+    <comp ref="D182">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8473</tstamp>
+    </comp>
+    <comp ref="D181">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8479</tstamp>
+    </comp>
+    <comp ref="D180">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F847F</tstamp>
+    </comp>
+    <comp ref="D185">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F8497</tstamp>
+    </comp>
+    <comp ref="D186">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F84A0</tstamp>
+    </comp>
+    <comp ref="D193">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65605D21</tstamp>
+    </comp>
+    <comp ref="D191">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>65713732</tstamp>
+    </comp>
+    <comp ref="D189">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6582183D</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6D61C383</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>5.1k</value>
+      <footprint>Resistors_SMD:R_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6D71A0EC</tstamp>
+    </comp>
+    <comp ref="D87">
+      <value>LED_ABGR</value>
+      <footprint>SamacSys_Parts2:MHT150RGBCT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="SamacSys_Parts" part="LED_ABGR" description="RGB LED, anode/blue/red/green"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7097E581</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>Crystal_Small</value>
+      <footprint>SamacSys_Parts2:Crystal_SMD_Abracon_ABM3-2pin_5.0x3.2mm_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Crystal_Small" description="Two pin crystal, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>71029730</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>12p</value>
+      <footprint>SamacSys_Parts2:C_0603_HandSoldering_Nopop</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7102B0C9</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>12p</value>
+      <footprint>SamacSys_Parts2:C_0603_HandSoldering_Nopop</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7102C3DB</tstamp>
+    </comp>
+    <comp ref="SW3">
+      <value>Rotary_Encoder_Switch</value>
+      <footprint>SamacSys_Parts2:PEC11R4220KS0024-encoderdown</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="Rotary_Encoder_Switch" description="Rotary encoder, dual channel, incremental quadrate outputs, with switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F0F2D59</tstamp>
+    </comp>
+    <comp ref="D85">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7209D2DF</tstamp>
+    </comp>
+    <comp ref="S85">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_2.25U-flippedstabs</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>7209D2E5</tstamp>
+    </comp>
+    <comp ref="D86">
+      <value>D_ALT</value>
+      <footprint>SamacSys_Parts2:D_SOD-123-Hand+SS</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="D_ALT" description="Diode, filled shape"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>72171A56</tstamp>
+    </comp>
+    <comp ref="S86">
+      <value>SW</value>
+      <footprint>SamacSys_Parts2:Kailh_socket_MX_2.25U-flippedstabs</footprint>
+      <libsource lib="Switch" part="SW_SPST" description="Single Pole Single Throw (SPST) switch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>72171A5C</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F2DF1F1</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>4.7u</value>
+      <footprint>Capacitors_SMD:C_0603_HandSoldering</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5F691444</tstamp>
+    </comp>
+    <comp ref="D173">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>6240C10F</tstamp>
+    </comp>
+    <comp ref="D194">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>62703F81</tstamp>
+    </comp>
+    <comp ref="D208">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>650C8EED</tstamp>
+    </comp>
+    <comp ref="D187">
+      <value>LED_RGBA</value>
+      <footprint>SamacSys_Parts2:LTSTS310F3WT</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="LED_RGBA" description="RGB LED, red/green/blue/anode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>654F84A6</tstamp>
+    </comp>
+    <comp ref="3V9">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74B8C84A</tstamp>
+    </comp>
+    <comp ref="3V3">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74B9B54B</tstamp>
+    </comp>
+    <comp ref="SCL1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74B9C248</tstamp>
+    </comp>
+    <comp ref="SDA1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74B9CABE</tstamp>
+    </comp>
+    <comp ref="5V0">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74BA0F31</tstamp>
+    </comp>
+    <comp ref="USBRP1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D59AF2</tstamp>
+    </comp>
+    <comp ref="USBRN1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D59EB2</tstamp>
+    </comp>
+    <comp ref="USBDP1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D5A3BB</tstamp>
+    </comp>
+    <comp ref="USBDN1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D5A6F9</tstamp>
+    </comp>
+    <comp ref="PA0">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D5B962</tstamp>
+    </comp>
+    <comp ref="PA1">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D5BE3C</tstamp>
+    </comp>
+    <comp ref="PC13">
+      <value>TestPoint</value>
+      <footprint>Measurement_Points:Measurement_Point_Round-TH_Small</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="TestPoint" description="test point"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>74D5C426</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="TestPoint">
+      <description>test point</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Pin*</fp>
+        <fp>Test*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TestPoint</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal_Small">
+      <description>Two pin crystal, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_ALT">
+      <description>Diode, filled shape</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_ALT</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED_RGBA">
+      <description>RGB LED, red/green/blue/anode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_RGBA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="RK" type="passive"/>
+        <pin num="2" name="GK" type="passive"/>
+        <pin num="3" name="BK" type="passive"/>
+        <pin num="4" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L_Small">
+      <description>Inductor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small">
+      <description>Resistor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Rotary_Encoder_Switch">
+      <description>Rotary encoder, dual channel, incremental quadrate outputs, with switch</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>RotaryEncoder*Switch*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Rotary_Encoder_Switch</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="S1" name="S1" type="passive"/>
+        <pin num="S2" name="S2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="IS31FL3733-TQ">
+      <description>12x16 LED matrix driver with 8-bit PWM and breathing, TQFP-48</description>
+      <docs>http://www.issi.com/WW/pdf/IS31FL3733.pdf</docs>
+      <footprints>
+        <fp>TQFP*1EP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS31FL3733-TQ</field>
+        <field name="Footprint">Package_QFP:TQFP-48-1EP_7x7mm_P0.5mm_EP5x5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC" type="NotConnected"/>
+        <pin num="2" name="SW1" type="input"/>
+        <pin num="3" name="SW2" type="input"/>
+        <pin num="4" name="SW3" type="input"/>
+        <pin num="5" name="PGND" type="power_in"/>
+        <pin num="6" name="SW4" type="input"/>
+        <pin num="7" name="SW5" type="input"/>
+        <pin num="8" name="SW6" type="input"/>
+        <pin num="9" name="SW7" type="input"/>
+        <pin num="10" name="SW8" type="input"/>
+        <pin num="11" name="SW9" type="input"/>
+        <pin num="12" name="PGND" type="passive"/>
+        <pin num="13" name="SW10" type="input"/>
+        <pin num="14" name="SW11" type="input"/>
+        <pin num="15" name="SW12" type="input"/>
+        <pin num="16" name="CS1" type="output"/>
+        <pin num="17" name="CS2" type="output"/>
+        <pin num="18" name="CS3" type="output"/>
+        <pin num="19" name="CS4" type="output"/>
+        <pin num="20" name="PVCC" type="power_in"/>
+        <pin num="21" name="CS5" type="output"/>
+        <pin num="22" name="CS6" type="output"/>
+        <pin num="23" name="CS7" type="output"/>
+        <pin num="24" name="CS8" type="output"/>
+        <pin num="25" name="CS9" type="output"/>
+        <pin num="26" name="CS10" type="output"/>
+        <pin num="27" name="CS11" type="output"/>
+        <pin num="28" name="CS12" type="output"/>
+        <pin num="29" name="PVCC" type="power_in"/>
+        <pin num="30" name="CS13" type="output"/>
+        <pin num="31" name="CS14" type="output"/>
+        <pin num="32" name="CS15" type="output"/>
+        <pin num="33" name="CS16" type="output"/>
+        <pin num="34" name="AGND" type="power_in"/>
+        <pin num="35" name="RSET" type="passive"/>
+        <pin num="36" name="NC" type="NotConnected"/>
+        <pin num="37" name="AVCC" type="power_in"/>
+        <pin num="38" name="DVCC" type="power_in"/>
+        <pin num="39" name="VIO" type="input"/>
+        <pin num="40" name="SYNC" type="input"/>
+        <pin num="41" name="SDA" type="BiDi"/>
+        <pin num="42" name="SCL" type="input"/>
+        <pin num="43" name="ADDR1" type="input"/>
+        <pin num="44" name="ADDR2" type="input"/>
+        <pin num="45" name="~INTB" type="openCol"/>
+        <pin num="46" name="~SDB" type="input"/>
+        <pin num="47" name="IICRST" type="input"/>
+        <pin num="48" name="GND" type="power_in"/>
+        <pin num="49" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_ST_STM32F0" part="STM32F072C8Tx">
+      <aliases>
+        <alias>STM32F072CBTx</alias>
+      </aliases>
+      <description>ARM Cortex-M0 MCU, 64KB flash, 16KB RAM, 48MHz, 2-3.6V, 37 GPIO, LQFP-48</description>
+      <docs>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00090510.pdf</docs>
+      <footprints>
+        <fp>LQFP*7x7mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F072C8Tx</field>
+        <field name="Footprint">Package_QFP:LQFP-48_7x7mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="BiDi"/>
+        <pin num="3" name="PC14" type="BiDi"/>
+        <pin num="4" name="PC15" type="BiDi"/>
+        <pin num="5" name="PF0" type="input"/>
+        <pin num="6" name="PF1" type="input"/>
+        <pin num="7" name="NRST" type="input"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="BiDi"/>
+        <pin num="11" name="PA1" type="BiDi"/>
+        <pin num="12" name="PA2" type="BiDi"/>
+        <pin num="13" name="PA3" type="BiDi"/>
+        <pin num="14" name="PA4" type="BiDi"/>
+        <pin num="15" name="PA5" type="BiDi"/>
+        <pin num="16" name="PA6" type="BiDi"/>
+        <pin num="17" name="PA7" type="BiDi"/>
+        <pin num="18" name="PB0" type="BiDi"/>
+        <pin num="19" name="PB1" type="BiDi"/>
+        <pin num="20" name="PB2" type="BiDi"/>
+        <pin num="21" name="PB10" type="BiDi"/>
+        <pin num="22" name="PB11" type="BiDi"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="BiDi"/>
+        <pin num="26" name="PB13" type="BiDi"/>
+        <pin num="27" name="PB14" type="BiDi"/>
+        <pin num="28" name="PB15" type="BiDi"/>
+        <pin num="29" name="PA8" type="BiDi"/>
+        <pin num="30" name="PA9" type="BiDi"/>
+        <pin num="31" name="PA10" type="BiDi"/>
+        <pin num="32" name="PA11" type="BiDi"/>
+        <pin num="33" name="PA12" type="BiDi"/>
+        <pin num="34" name="PA13" type="BiDi"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDDIO2" type="power_in"/>
+        <pin num="37" name="PA14" type="BiDi"/>
+        <pin num="38" name="PA15" type="BiDi"/>
+        <pin num="39" name="PB3" type="BiDi"/>
+        <pin num="40" name="PB4" type="BiDi"/>
+        <pin num="41" name="PB5" type="BiDi"/>
+        <pin num="42" name="PB6" type="BiDi"/>
+        <pin num="43" name="PB7" type="BiDi"/>
+        <pin num="44" name="BOOT0" type="input"/>
+        <pin num="45" name="PB8" type="BiDi"/>
+        <pin num="46" name="PB9" type="BiDi"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="AP2204K-1.5">
+      <aliases>
+        <alias>AP2204K-1.8</alias>
+        <alias>AP2204K-2.5</alias>
+        <alias>AP2204K-2.8</alias>
+        <alias>AP2204K-3.0</alias>
+        <alias>AP2204K-3.3</alias>
+        <alias>AP2204K-5.0</alias>
+        <alias>AP2127K-1.0</alias>
+        <alias>AP2127K-1.2</alias>
+        <alias>AP2127K-1.5</alias>
+        <alias>AP2127K-1.8</alias>
+        <alias>AP2127K-2.5</alias>
+        <alias>AP2127K-2.8</alias>
+        <alias>AP2127K-3.0</alias>
+        <alias>AP2127K-3.3</alias>
+        <alias>AP2127K-4.2</alias>
+        <alias>AP2127K-4.75</alias>
+        <alias>AP2112K-1.2</alias>
+        <alias>AP2112K-1.8</alias>
+        <alias>AP2112K-2.5</alias>
+        <alias>AP2112K-2.6</alias>
+        <alias>AP2112K-3.3</alias>
+      </aliases>
+      <description>150mA low dropout linear regulator, wide input voltage range, 1.5V fixed positive output, SOT-23-5 package</description>
+      <docs>https://www.diodes.com/assets/Datasheets/AP2204.pdf</docs>
+      <footprints>
+        <fp>SOT?23?5*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AP2204K-1.5</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VIN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="EN" type="input"/>
+        <pin num="4" name="NC" type="NotConnected"/>
+        <pin num="5" name="VOUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="AP22802AW5-7">
+      <description>DiodesZetex AP22802AW5-7 Load Switch IC, Power Distribution, 2A, 2.7  5.5V, 5-Pin, SOT-25</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/AP22802AW5-7.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AP22802AW5-7</field>
+        <field name="Footprint">SOT95P285X130-5N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/AP22802AW5-7.pdf</field>
+        <field name="Description">DiodesZetex AP22802AW5-7 Load Switch IC, Power Distribution, 2A, 2.7  5.5V, 5-Pin, SOT-25</field>
+        <field name="Height">1.3</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">AP22802AW5-7</field>
+        <field name="Mouser Part Number">621-AP22802AW5-7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=621-AP22802AW5-7</field>
+        <field name="RS Part Number">9210455P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9210455P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="FLG" type="output"/>
+        <pin num="4" name="EN" type="input"/>
+        <pin num="5" name="IN" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="AP3429KTTR-G1">
+      <description>Switching Voltage Regulators 1.0MHz 2A Step Down Latch Off Protection</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/AP3429KTTR-G1.pdf</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">AP3429KTTR-G1</field>
+        <field name="Footprint">SOT95P280X100-5N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/AP3429KTTR-G1.pdf</field>
+        <field name="Description">Switching Voltage Regulators 1.0MHz 2A Step Down Latch Off Protection</field>
+        <field name="Height">1</field>
+        <field name="Manufacturer_Name">Diodes Inc.</field>
+        <field name="Manufacturer_Part_Number">AP3429KTTR-G1</field>
+        <field name="Mouser Part Number">621-AP3429KTTR-G1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=621-AP3429KTTR-G1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="EN" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="LX" type="power_out"/>
+        <pin num="4" name="VIN" type="power_in"/>
+        <pin num="5" name="FB" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="LED_ABGR">
+      <description>RGB LED, anode/blue/red/green</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED_ABGR</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="BK" type="passive"/>
+        <pin num="3" name="GK" type="passive"/>
+        <pin num="4" name="RK" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="PKMCS0909E4000-R1">
+      <description>Piezo Buzzer 9x9mm 4kHz 1.9mm Murata Maximum of +/-12.5 V 65dB SMD Sounder External Piezo Buzzer, Maximum of 4 kHz</description>
+      <docs>http://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</docs>
+      <fields>
+        <field name="Reference">LS</field>
+        <field name="Value">PKMCS0909E4000-R1</field>
+        <field name="Footprint">PKMCS</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx</field>
+        <field name="Description">Piezo Buzzer 9x9mm 4kHz 1.9mm Murata Maximum of +/-12.5 V 65dB SMD Sounder External Piezo Buzzer, Maximum of 4 kHz</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">PKMCS0909E4000-R1</field>
+        <field name="Mouser Part Number">81-PKMCS0909E4000-R1</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-PKMCS0909E4000-R1</field>
+        <field name="RS Part Number">9010898P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9010898P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="USBUF01W6">
+      <docs>http://www.st.com/web/en/resource/technical/document/datasheet/CD00002046.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">USBUF01W6</field>
+        <field name="Footprint">SOT65P210X110-6N</field>
+        <field name="Datasheet">http://www.st.com/web/en/resource/technical/document/datasheet/CD00002046.pdf</field>
+        <field name="Height">1.1</field>
+        <field name="Manufacturer_Name">STMicroelectronics</field>
+        <field name="Manufacturer_Part_Number">USBUF01W6</field>
+        <field name="Mouser Part Number">511-USBUF01W6</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=511-USBUF01W6</field>
+        <field name="RS Part Number">0250640P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0250640P</field>
+        <field name="Allied_Number">70389692</field>
+        <field name="Allied Price/Stock">http://www.alliedelec.com/stmicroelectronics-usbuf01w6/70389692/</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D1" type="unspc"/>
+        <pin num="2" name="GRD" type="power_in"/>
+        <pin num="3" name="D2" type="unspc"/>
+        <pin num="4" name="D3" type="unspc"/>
+        <pin num="5" name="3.3V" type="power_in"/>
+        <pin num="6" name="D4" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPST">
+      <description>Single Pole Single Throw (SPST) switch</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Type-C" part="HRO-TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">USB</field>
+        <field name="Value">HRO-TYPE-C-31-M-12</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="unspc"/>
+        <pin num="2" name="VBUS" type="power_out"/>
+        <pin num="3" name="SBU2" type="input"/>
+        <pin num="4" name="CC1" type="input"/>
+        <pin num="5" name="DN2" type="BiDi"/>
+        <pin num="6" name="DP1" type="BiDi"/>
+        <pin num="7" name="DN1" type="BiDi"/>
+        <pin num="8" name="DP2" type="BiDi"/>
+        <pin num="9" name="SBU1" type="input"/>
+        <pin num="10" name="CC2" type="input"/>
+        <pin num="11" name="VBUS" type="input"/>
+        <pin num="12" name="GND" type="unspc"/>
+        <pin num="13" name="SHIELD" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Driver_LED.lib</uri>
+    </library>
+    <library logical="MCU_ST_STM32F0">
+      <uri>C:\Program Files\KiCad\share\kicad\library/MCU_ST_STM32F0.lib</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Regulator_Linear.lib</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/Jonathan Chandler/Documents/SamacSys_PCB_Library/KiCad/SamacSys_Parts.lib</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Switch.lib</uri>
+    </library>
+    <library logical="Type-C">
+      <uri>C:/Users/Jonathan Chandler/Documents/KiCad/libraries/Type-C.pretty-master/Type-C.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/SW12_2">
+      <node ref="D193" pin="3"/>
+      <node ref="D191" pin="3"/>
+      <node ref="D146" pin="2"/>
+      <node ref="D158" pin="2"/>
+      <node ref="D159" pin="2"/>
+      <node ref="D155" pin="2"/>
+      <node ref="D141" pin="2"/>
+      <node ref="D145" pin="2"/>
+      <node ref="D160" pin="2"/>
+      <node ref="D157" pin="2"/>
+      <node ref="D154" pin="2"/>
+      <node ref="D143" pin="2"/>
+      <node ref="D142" pin="2"/>
+      <node ref="D144" pin="2"/>
+      <node ref="D156" pin="2"/>
+      <node ref="D208" pin="3"/>
+      <node ref="U4" pin="15"/>
+    </net>
+    <net code="2" name="/SW1_2">
+      <node ref="D117" pin="4"/>
+      <node ref="D114" pin="4"/>
+      <node ref="D115" pin="4"/>
+      <node ref="D116" pin="4"/>
+      <node ref="D187" pin="1"/>
+      <node ref="D185" pin="1"/>
+      <node ref="D186" pin="1"/>
+      <node ref="D113" pin="4"/>
+      <node ref="U4" pin="2"/>
+      <node ref="D111" pin="4"/>
+      <node ref="D112" pin="4"/>
+      <node ref="D184" pin="1"/>
+      <node ref="D183" pin="1"/>
+      <node ref="D182" pin="1"/>
+      <node ref="D181" pin="1"/>
+    </net>
+    <net code="3" name="/SW2_2">
+      <node ref="D115" pin="3"/>
+      <node ref="D117" pin="3"/>
+      <node ref="D186" pin="2"/>
+      <node ref="D181" pin="2"/>
+      <node ref="D182" pin="2"/>
+      <node ref="D183" pin="2"/>
+      <node ref="D114" pin="3"/>
+      <node ref="D184" pin="2"/>
+      <node ref="D112" pin="3"/>
+      <node ref="D113" pin="3"/>
+      <node ref="D185" pin="2"/>
+      <node ref="D111" pin="3"/>
+      <node ref="D187" pin="2"/>
+      <node ref="U4" pin="3"/>
+      <node ref="D116" pin="3"/>
+    </net>
+    <net code="4" name="/SW3_2">
+      <node ref="D182" pin="3"/>
+      <node ref="D117" pin="2"/>
+      <node ref="D183" pin="3"/>
+      <node ref="D116" pin="2"/>
+      <node ref="D187" pin="3"/>
+      <node ref="D114" pin="2"/>
+      <node ref="D112" pin="2"/>
+      <node ref="D111" pin="2"/>
+      <node ref="D181" pin="3"/>
+      <node ref="D184" pin="3"/>
+      <node ref="D185" pin="3"/>
+      <node ref="D113" pin="2"/>
+      <node ref="D186" pin="3"/>
+      <node ref="U4" pin="4"/>
+      <node ref="D115" pin="2"/>
+    </net>
+    <net code="5" name="/SW4_2">
+      <node ref="D189" pin="1"/>
+      <node ref="D98" pin="4"/>
+      <node ref="D131" pin="4"/>
+      <node ref="D127" pin="4"/>
+      <node ref="D130" pin="4"/>
+      <node ref="D95" pin="4"/>
+      <node ref="D99" pin="4"/>
+      <node ref="D126" pin="4"/>
+      <node ref="D97" pin="4"/>
+      <node ref="D101" pin="4"/>
+      <node ref="D128" pin="4"/>
+      <node ref="U4" pin="6"/>
+      <node ref="D102" pin="4"/>
+      <node ref="D132" pin="4"/>
+      <node ref="D100" pin="4"/>
+      <node ref="D129" pin="4"/>
+      <node ref="D96" pin="4"/>
+    </net>
+    <net code="6" name="/SW5_2">
+      <node ref="U4" pin="7"/>
+      <node ref="D96" pin="3"/>
+      <node ref="D95" pin="3"/>
+      <node ref="D97" pin="3"/>
+      <node ref="D189" pin="2"/>
+      <node ref="D102" pin="3"/>
+      <node ref="D101" pin="3"/>
+      <node ref="D129" pin="3"/>
+      <node ref="D130" pin="3"/>
+      <node ref="D128" pin="3"/>
+      <node ref="D126" pin="3"/>
+      <node ref="D100" pin="3"/>
+      <node ref="D132" pin="3"/>
+      <node ref="D99" pin="3"/>
+      <node ref="D98" pin="3"/>
+      <node ref="D127" pin="3"/>
+      <node ref="D131" pin="3"/>
+    </net>
+    <net code="7" name="/SW6_2">
+      <node ref="D128" pin="2"/>
+      <node ref="D129" pin="2"/>
+      <node ref="D96" pin="2"/>
+      <node ref="D97" pin="2"/>
+      <node ref="U4" pin="8"/>
+      <node ref="D98" pin="2"/>
+      <node ref="D130" pin="2"/>
+      <node ref="D126" pin="2"/>
+      <node ref="D101" pin="2"/>
+      <node ref="D102" pin="2"/>
+      <node ref="D132" pin="2"/>
+      <node ref="D100" pin="2"/>
+      <node ref="D127" pin="2"/>
+      <node ref="D131" pin="2"/>
+      <node ref="D189" pin="3"/>
+      <node ref="D99" pin="2"/>
+      <node ref="D95" pin="2"/>
+    </net>
+    <net code="8" name="/SW7_2">
+      <node ref="D166" pin="4"/>
+      <node ref="D206" pin="1"/>
+      <node ref="D207" pin="1"/>
+      <node ref="D172" pin="4"/>
+      <node ref="D170" pin="4"/>
+      <node ref="D169" pin="4"/>
+      <node ref="D202" pin="1"/>
+      <node ref="D168" pin="4"/>
+      <node ref="D204" pin="1"/>
+      <node ref="D167" pin="4"/>
+      <node ref="U4" pin="9"/>
+      <node ref="D205" pin="1"/>
+      <node ref="D203" pin="1"/>
+      <node ref="D171" pin="4"/>
+    </net>
+    <net code="9" name="/SW8_2">
+      <node ref="D207" pin="2"/>
+      <node ref="D169" pin="3"/>
+      <node ref="D205" pin="2"/>
+      <node ref="D202" pin="2"/>
+      <node ref="D170" pin="3"/>
+      <node ref="D204" pin="2"/>
+      <node ref="D206" pin="2"/>
+      <node ref="D172" pin="3"/>
+      <node ref="D167" pin="3"/>
+      <node ref="D171" pin="3"/>
+      <node ref="U4" pin="10"/>
+      <node ref="D166" pin="3"/>
+      <node ref="D203" pin="2"/>
+      <node ref="D168" pin="3"/>
+    </net>
+    <net code="10" name="/SW9_2">
+      <node ref="D167" pin="2"/>
+      <node ref="D168" pin="2"/>
+      <node ref="D170" pin="2"/>
+      <node ref="D203" pin="3"/>
+      <node ref="D202" pin="3"/>
+      <node ref="D205" pin="3"/>
+      <node ref="D169" pin="2"/>
+      <node ref="D204" pin="3"/>
+      <node ref="U4" pin="11"/>
+      <node ref="D206" pin="3"/>
+      <node ref="D207" pin="3"/>
+      <node ref="D171" pin="2"/>
+      <node ref="D166" pin="2"/>
+      <node ref="D172" pin="2"/>
+    </net>
+    <net code="11" name="/SW10_2">
+      <node ref="D155" pin="4"/>
+      <node ref="D154" pin="4"/>
+      <node ref="D141" pin="4"/>
+      <node ref="D193" pin="1"/>
+      <node ref="D208" pin="1"/>
+      <node ref="D191" pin="1"/>
+      <node ref="D146" pin="4"/>
+      <node ref="U4" pin="13"/>
+      <node ref="D145" pin="4"/>
+      <node ref="D158" pin="4"/>
+      <node ref="D156" pin="4"/>
+      <node ref="D143" pin="4"/>
+      <node ref="D159" pin="4"/>
+      <node ref="D160" pin="4"/>
+      <node ref="D142" pin="4"/>
+      <node ref="D144" pin="4"/>
+      <node ref="D157" pin="4"/>
+    </net>
+    <net code="12" name="/SW11_2">
+      <node ref="U4" pin="14"/>
+      <node ref="D143" pin="3"/>
+      <node ref="D146" pin="3"/>
+      <node ref="D158" pin="3"/>
+      <node ref="D156" pin="3"/>
+      <node ref="D142" pin="3"/>
+      <node ref="D159" pin="3"/>
+      <node ref="D141" pin="3"/>
+      <node ref="D144" pin="3"/>
+      <node ref="D155" pin="3"/>
+      <node ref="D154" pin="3"/>
+      <node ref="D157" pin="3"/>
+      <node ref="D193" pin="2"/>
+      <node ref="D208" pin="2"/>
+      <node ref="D191" pin="2"/>
+      <node ref="D160" pin="3"/>
+      <node ref="D145" pin="3"/>
+    </net>
+    <net code="13" name="/CS10_2">
+      <node ref="D185" pin="4"/>
+      <node ref="D206" pin="4"/>
+      <node ref="D130" pin="1"/>
+      <node ref="U4" pin="26"/>
+    </net>
+    <net code="14" name="/CS4_2">
+      <node ref="U4" pin="19"/>
+      <node ref="D203" pin="4"/>
+      <node ref="D155" pin="1"/>
+      <node ref="D182" pin="4"/>
+      <node ref="D127" pin="1"/>
+    </net>
+    <net code="15" name="/CS5_2">
+      <node ref="D113" pin="1"/>
+      <node ref="U4" pin="21"/>
+      <node ref="D97" pin="1"/>
+      <node ref="D168" pin="1"/>
+      <node ref="D143" pin="1"/>
+    </net>
+    <net code="16" name="/CS6_2">
+      <node ref="U4" pin="22"/>
+      <node ref="D204" pin="4"/>
+      <node ref="D128" pin="1"/>
+      <node ref="D183" pin="4"/>
+      <node ref="D156" pin="1"/>
+    </net>
+    <net code="17" name="/CS7_2">
+      <node ref="D144" pin="1"/>
+      <node ref="D114" pin="1"/>
+      <node ref="D98" pin="1"/>
+      <node ref="D169" pin="1"/>
+      <node ref="U4" pin="23"/>
+    </net>
+    <net code="18" name="/CS8_2">
+      <node ref="D129" pin="1"/>
+      <node ref="U4" pin="24"/>
+      <node ref="D184" pin="4"/>
+      <node ref="D205" pin="4"/>
+      <node ref="D157" pin="1"/>
+    </net>
+    <net code="19" name="/CS9_2">
+      <node ref="D158" pin="1"/>
+      <node ref="D170" pin="1"/>
+      <node ref="D99" pin="1"/>
+      <node ref="D115" pin="1"/>
+      <node ref="U4" pin="25"/>
+    </net>
+    <net code="20" name="/CS11_2">
+      <node ref="U4" pin="27"/>
+      <node ref="D159" pin="1"/>
+      <node ref="D171" pin="1"/>
+      <node ref="D145" pin="1"/>
+      <node ref="D100" pin="1"/>
+    </net>
+    <net code="21" name="/CS12_2">
+      <node ref="D187" pin="4"/>
+      <node ref="D208" pin="4"/>
+      <node ref="D146" pin="1"/>
+      <node ref="D207" pin="4"/>
+      <node ref="D131" pin="1"/>
+      <node ref="U4" pin="28"/>
+    </net>
+    <net code="22" name="/CS13_2">
+      <node ref="D172" pin="1"/>
+      <node ref="D116" pin="1"/>
+      <node ref="D160" pin="1"/>
+      <node ref="D101" pin="1"/>
+      <node ref="U4" pin="30"/>
+    </net>
+    <net code="23" name="/CS14_2">
+      <node ref="U4" pin="31"/>
+      <node ref="D132" pin="1"/>
+      <node ref="D186" pin="4"/>
+      <node ref="D193" pin="4"/>
+    </net>
+    <net code="24" name="/CS15_2">
+      <node ref="D102" pin="1"/>
+      <node ref="D117" pin="1"/>
+      <node ref="U4" pin="32"/>
+      <node ref="D191" pin="4"/>
+    </net>
+    <net code="25" name="Net-(D78-Pad2)">
+      <node ref="D78" pin="2"/>
+      <node ref="S78" pin="1"/>
+    </net>
+    <net code="26" name="/CS2_1">
+      <node ref="D103" pin="1"/>
+      <node ref="D190" pin="4"/>
+      <node ref="D134" pin="1"/>
+      <node ref="D192" pin="4"/>
+      <node ref="U3" pin="17"/>
+    </net>
+    <net code="27" name="/CS1_1">
+      <node ref="D194" pin="4"/>
+      <node ref="U3" pin="16"/>
+      <node ref="D87" pin="1"/>
+      <node ref="D148" pin="1"/>
+    </net>
+    <net code="28" name="/CS3_1">
+      <node ref="D133" pin="1"/>
+      <node ref="D135" pin="1"/>
+      <node ref="D174" pin="4"/>
+      <node ref="U3" pin="18"/>
+      <node ref="D88" pin="1"/>
+    </net>
+    <net code="29" name="/CS4_1">
+      <node ref="D195" pin="4"/>
+      <node ref="U3" pin="19"/>
+      <node ref="D149" pin="1"/>
+      <node ref="D188" pin="4"/>
+      <node ref="D104" pin="1"/>
+    </net>
+    <net code="30" name="/CS5_1">
+      <node ref="D175" pin="4"/>
+      <node ref="U3" pin="21"/>
+      <node ref="D136" pin="1"/>
+      <node ref="D147" pin="1"/>
+      <node ref="D89" pin="1"/>
+    </net>
+    <net code="31" name="/CS6_1">
+      <node ref="D196" pin="4"/>
+      <node ref="D105" pin="1"/>
+      <node ref="D123" pin="1"/>
+      <node ref="D173" pin="4"/>
+      <node ref="U3" pin="22"/>
+    </net>
+    <net code="32" name="/CS7_1">
+      <node ref="D137" pin="1"/>
+      <node ref="D161" pin="1"/>
+      <node ref="D176" pin="4"/>
+      <node ref="U3" pin="23"/>
+      <node ref="D90" pin="1"/>
+    </net>
+    <net code="33" name="/CS8_1">
+      <node ref="D106" pin="1"/>
+      <node ref="D197" pin="4"/>
+      <node ref="U3" pin="24"/>
+      <node ref="D150" pin="1"/>
+      <node ref="D118" pin="1"/>
+    </net>
+    <net code="34" name="/SW7_1">
+      <node ref="D94" pin="4"/>
+      <node ref="D87" pin="4"/>
+      <node ref="D173" pin="1"/>
+      <node ref="D122" pin="4"/>
+      <node ref="D188" pin="1"/>
+      <node ref="U3" pin="9"/>
+      <node ref="D190" pin="1"/>
+      <node ref="D120" pin="4"/>
+      <node ref="D89" pin="4"/>
+      <node ref="D119" pin="4"/>
+      <node ref="D121" pin="4"/>
+      <node ref="D90" pin="4"/>
+      <node ref="D92" pin="4"/>
+      <node ref="D88" pin="4"/>
+      <node ref="D93" pin="4"/>
+      <node ref="D91" pin="4"/>
+      <node ref="D118" pin="4"/>
+    </net>
+    <net code="35" name="/SW9_1">
+      <node ref="D121" pin="2"/>
+      <node ref="D119" pin="2"/>
+      <node ref="D120" pin="2"/>
+      <node ref="D188" pin="3"/>
+      <node ref="D173" pin="3"/>
+      <node ref="D90" pin="2"/>
+      <node ref="D190" pin="3"/>
+      <node ref="D94" pin="2"/>
+      <node ref="D89" pin="2"/>
+      <node ref="D91" pin="2"/>
+      <node ref="D118" pin="2"/>
+      <node ref="D88" pin="2"/>
+      <node ref="U3" pin="11"/>
+      <node ref="D92" pin="2"/>
+      <node ref="D122" pin="2"/>
+      <node ref="D93" pin="2"/>
+      <node ref="D87" pin="2"/>
+    </net>
+    <net code="36" name="/SW10_1">
+      <node ref="D177" pin="1"/>
+      <node ref="D107" pin="4"/>
+      <node ref="D104" pin="4"/>
+      <node ref="D108" pin="4"/>
+      <node ref="D175" pin="1"/>
+      <node ref="D176" pin="1"/>
+      <node ref="D110" pin="4"/>
+      <node ref="D103" pin="4"/>
+      <node ref="U3" pin="13"/>
+      <node ref="D174" pin="1"/>
+      <node ref="D109" pin="4"/>
+      <node ref="D106" pin="4"/>
+      <node ref="D179" pin="1"/>
+      <node ref="D178" pin="1"/>
+      <node ref="D180" pin="1"/>
+      <node ref="D105" pin="4"/>
+    </net>
+    <net code="37" name="/SW11_1">
+      <node ref="D109" pin="3"/>
+      <node ref="D103" pin="3"/>
+      <node ref="D106" pin="3"/>
+      <node ref="D174" pin="2"/>
+      <node ref="D104" pin="3"/>
+      <node ref="D110" pin="3"/>
+      <node ref="D105" pin="3"/>
+      <node ref="D107" pin="3"/>
+      <node ref="D179" pin="2"/>
+      <node ref="D178" pin="2"/>
+      <node ref="D180" pin="2"/>
+      <node ref="D175" pin="2"/>
+      <node ref="D176" pin="2"/>
+      <node ref="D108" pin="3"/>
+      <node ref="D177" pin="2"/>
+      <node ref="U3" pin="14"/>
+    </net>
+    <net code="38" name="/SW12_1">
+      <node ref="U3" pin="15"/>
+      <node ref="D105" pin="2"/>
+      <node ref="D176" pin="3"/>
+      <node ref="D174" pin="3"/>
+      <node ref="D177" pin="3"/>
+      <node ref="D175" pin="3"/>
+      <node ref="D180" pin="3"/>
+      <node ref="D178" pin="3"/>
+      <node ref="D179" pin="3"/>
+      <node ref="D103" pin="2"/>
+      <node ref="D104" pin="2"/>
+      <node ref="D108" pin="2"/>
+      <node ref="D107" pin="2"/>
+      <node ref="D109" pin="2"/>
+      <node ref="D110" pin="2"/>
+      <node ref="D106" pin="2"/>
+    </net>
+    <net code="39" name="/CS16_1">
+      <node ref="D201" pin="4"/>
+      <node ref="U3" pin="33"/>
+      <node ref="D122" pin="1"/>
+      <node ref="D110" pin="1"/>
+      <node ref="D153" pin="1"/>
+    </net>
+    <net code="40" name="/SW2_1">
+      <node ref="D199" pin="2"/>
+      <node ref="D192" pin="2"/>
+      <node ref="D200" pin="2"/>
+      <node ref="D133" pin="3"/>
+      <node ref="D147" pin="3"/>
+      <node ref="D195" pin="2"/>
+      <node ref="D161" pin="3"/>
+      <node ref="D162" pin="3"/>
+      <node ref="D163" pin="3"/>
+      <node ref="D165" pin="3"/>
+      <node ref="D201" pin="2"/>
+      <node ref="D164" pin="3"/>
+      <node ref="U3" pin="3"/>
+      <node ref="D196" pin="2"/>
+      <node ref="D197" pin="2"/>
+      <node ref="D194" pin="2"/>
+      <node ref="D198" pin="2"/>
+    </net>
+    <net code="41" name="/SW3_1">
+      <node ref="U3" pin="4"/>
+      <node ref="D194" pin="3"/>
+      <node ref="D163" pin="2"/>
+      <node ref="D162" pin="2"/>
+      <node ref="D133" pin="2"/>
+      <node ref="D201" pin="3"/>
+      <node ref="D200" pin="3"/>
+      <node ref="D192" pin="3"/>
+      <node ref="D195" pin="3"/>
+      <node ref="D196" pin="3"/>
+      <node ref="D147" pin="2"/>
+      <node ref="D199" pin="3"/>
+      <node ref="D198" pin="3"/>
+      <node ref="D197" pin="3"/>
+      <node ref="D164" pin="2"/>
+      <node ref="D165" pin="2"/>
+      <node ref="D161" pin="2"/>
+    </net>
+    <net code="42" name="/SW4_1">
+      <node ref="D148" pin="4"/>
+      <node ref="D140" pin="4"/>
+      <node ref="D125" pin="4"/>
+      <node ref="D149" pin="4"/>
+      <node ref="D137" pin="4"/>
+      <node ref="D123" pin="4"/>
+      <node ref="D136" pin="4"/>
+      <node ref="D124" pin="4"/>
+      <node ref="D151" pin="4"/>
+      <node ref="D134" pin="4"/>
+      <node ref="D152" pin="4"/>
+      <node ref="D138" pin="4"/>
+      <node ref="D139" pin="4"/>
+      <node ref="U3" pin="6"/>
+      <node ref="D153" pin="4"/>
+      <node ref="D135" pin="4"/>
+      <node ref="D150" pin="4"/>
+    </net>
+    <net code="43" name="/SW5_1">
+      <node ref="D124" pin="3"/>
+      <node ref="D151" pin="3"/>
+      <node ref="D150" pin="3"/>
+      <node ref="D137" pin="3"/>
+      <node ref="D136" pin="3"/>
+      <node ref="D125" pin="3"/>
+      <node ref="D153" pin="3"/>
+      <node ref="D138" pin="3"/>
+      <node ref="D139" pin="3"/>
+      <node ref="D152" pin="3"/>
+      <node ref="D134" pin="3"/>
+      <node ref="D135" pin="3"/>
+      <node ref="D140" pin="3"/>
+      <node ref="D148" pin="3"/>
+      <node ref="D149" pin="3"/>
+      <node ref="D123" pin="3"/>
+      <node ref="U3" pin="7"/>
+    </net>
+    <net code="44" name="/SW6_1">
+      <node ref="D124" pin="2"/>
+      <node ref="D136" pin="2"/>
+      <node ref="D137" pin="2"/>
+      <node ref="D150" pin="2"/>
+      <node ref="D125" pin="2"/>
+      <node ref="D151" pin="2"/>
+      <node ref="D123" pin="2"/>
+      <node ref="D153" pin="2"/>
+      <node ref="D140" pin="2"/>
+      <node ref="D135" pin="2"/>
+      <node ref="D148" pin="2"/>
+      <node ref="D149" pin="2"/>
+      <node ref="D139" pin="2"/>
+      <node ref="U3" pin="8"/>
+      <node ref="D152" pin="2"/>
+      <node ref="D134" pin="2"/>
+      <node ref="D138" pin="2"/>
+    </net>
+    <net code="45" name="/SW8_1">
+      <node ref="D118" pin="3"/>
+      <node ref="U3" pin="10"/>
+      <node ref="D87" pin="3"/>
+      <node ref="D122" pin="3"/>
+      <node ref="D121" pin="3"/>
+      <node ref="D119" pin="3"/>
+      <node ref="D120" pin="3"/>
+      <node ref="D173" pin="2"/>
+      <node ref="D188" pin="2"/>
+      <node ref="D94" pin="3"/>
+      <node ref="D91" pin="3"/>
+      <node ref="D90" pin="3"/>
+      <node ref="D89" pin="3"/>
+      <node ref="D88" pin="3"/>
+      <node ref="D93" pin="3"/>
+      <node ref="D92" pin="3"/>
+      <node ref="D190" pin="2"/>
+    </net>
+    <net code="46" name="/CS1_2">
+      <node ref="D166" pin="1"/>
+      <node ref="U4" pin="16"/>
+      <node ref="D141" pin="1"/>
+      <node ref="D95" pin="1"/>
+      <node ref="D111" pin="1"/>
+    </net>
+    <net code="47" name="/CS2_2">
+      <node ref="D154" pin="1"/>
+      <node ref="D202" pin="4"/>
+      <node ref="U4" pin="17"/>
+      <node ref="D126" pin="1"/>
+      <node ref="D181" pin="4"/>
+    </net>
+    <net code="48" name="/CS3_2">
+      <node ref="D167" pin="1"/>
+      <node ref="U4" pin="18"/>
+      <node ref="D96" pin="1"/>
+      <node ref="D112" pin="1"/>
+      <node ref="D142" pin="1"/>
+    </net>
+    <net code="49" name="/CS14_1">
+      <node ref="D109" pin="1"/>
+      <node ref="D152" pin="1"/>
+      <node ref="U3" pin="31"/>
+      <node ref="D121" pin="1"/>
+      <node ref="D200" pin="4"/>
+    </net>
+    <net code="50" name="/CS9_1">
+      <node ref="U3" pin="25"/>
+      <node ref="D124" pin="1"/>
+      <node ref="D91" pin="1"/>
+      <node ref="D177" pin="4"/>
+      <node ref="D162" pin="1"/>
+    </net>
+    <net code="51" name="/CS10_1">
+      <node ref="D107" pin="1"/>
+      <node ref="U3" pin="26"/>
+      <node ref="D138" pin="1"/>
+      <node ref="D198" pin="4"/>
+      <node ref="D119" pin="1"/>
+    </net>
+    <net code="52" name="/CS11_1">
+      <node ref="D178" pin="4"/>
+      <node ref="U3" pin="27"/>
+      <node ref="D139" pin="1"/>
+      <node ref="D163" pin="1"/>
+      <node ref="D92" pin="1"/>
+    </net>
+    <net code="53" name="/CS12_1">
+      <node ref="D120" pin="1"/>
+      <node ref="D199" pin="4"/>
+      <node ref="D151" pin="1"/>
+      <node ref="U3" pin="28"/>
+      <node ref="D108" pin="1"/>
+    </net>
+    <net code="54" name="/CS13_1">
+      <node ref="D125" pin="1"/>
+      <node ref="U3" pin="30"/>
+      <node ref="D93" pin="1"/>
+      <node ref="D179" pin="4"/>
+      <node ref="D164" pin="1"/>
+    </net>
+    <net code="55" name="/CS15_1">
+      <node ref="U3" pin="32"/>
+      <node ref="D180" pin="4"/>
+      <node ref="D140" pin="1"/>
+      <node ref="D165" pin="1"/>
+      <node ref="D94" pin="1"/>
+    </net>
+    <net code="56" name="/SW1_1">
+      <node ref="D200" pin="1"/>
+      <node ref="D195" pin="1"/>
+      <node ref="D192" pin="1"/>
+      <node ref="D165" pin="4"/>
+      <node ref="D196" pin="1"/>
+      <node ref="D201" pin="1"/>
+      <node ref="D147" pin="4"/>
+      <node ref="D164" pin="4"/>
+      <node ref="D197" pin="1"/>
+      <node ref="D198" pin="1"/>
+      <node ref="D199" pin="1"/>
+      <node ref="D161" pin="4"/>
+      <node ref="U3" pin="2"/>
+      <node ref="D133" pin="4"/>
+      <node ref="D163" pin="4"/>
+      <node ref="D194" pin="1"/>
+      <node ref="D162" pin="4"/>
+    </net>
+    <net code="57" name="Net-(R13-Pad2)">
+      <node ref="R13" pin="2"/>
+      <node ref="U3" pin="35"/>
+    </net>
+    <net code="58" name="GND">
+      <node ref="R12" pin="1"/>
+      <node ref="C18" pin="2"/>
+      <node ref="U4" pin="12"/>
+      <node ref="U4" pin="49"/>
+      <node ref="U4" pin="44"/>
+      <node ref="U4" pin="34"/>
+      <node ref="C14" pin="2"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="U4" pin="48"/>
+      <node ref="U4" pin="5"/>
+      <node ref="IC2" pin="2"/>
+      <node ref="LS1" pin="1"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U1" pin="47"/>
+      <node ref="U1" pin="35"/>
+      <node ref="U1" pin="23"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C2" pin="2"/>
+      <node ref="R14" pin="1"/>
+      <node ref="U3" pin="43"/>
+      <node ref="U3" pin="34"/>
+      <node ref="C22" pin="2"/>
+      <node ref="U3" pin="44"/>
+      <node ref="R1" pin="2"/>
+      <node ref="U3" pin="5"/>
+      <node ref="U3" pin="48"/>
+      <node ref="U3" pin="49"/>
+      <node ref="U3" pin="12"/>
+      <node ref="C20" pin="1"/>
+      <node ref="C15" pin="2"/>
+      <node ref="SW1" pin="1"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="R11" pin="1"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C6" pin="2"/>
+      <node ref="SW4" pin="C"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C24" pin="1"/>
+      <node ref="USB1" pin="1"/>
+      <node ref="USB1" pin="12"/>
+      <node ref="SW3" pin="C"/>
+      <node ref="USB1" pin="13"/>
+      <node ref="PS1" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="C19" pin="1"/>
+      <node ref="R13" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="U2" pin="2"/>
+      <node ref="C23" pin="1"/>
+    </net>
+    <net code="59" name="Net-(U4-Pad1)">
+      <node ref="U4" pin="1"/>
+    </net>
+    <net code="60" name="Net-(U4-Pad36)">
+      <node ref="U4" pin="36"/>
+    </net>
+    <net code="61" name="Net-(U4-Pad40)">
+      <node ref="U4" pin="40"/>
+    </net>
+    <net code="62" name="Net-(U4-Pad45)">
+      <node ref="U4" pin="45"/>
+    </net>
+    <net code="63" name="Net-(R12-Pad2)">
+      <node ref="R12" pin="2"/>
+      <node ref="U4" pin="47"/>
+    </net>
+    <net code="64" name="/Audio">
+      <node ref="LS1" pin="2"/>
+      <node ref="U1" pin="41"/>
+    </net>
+    <net code="65" name="/SCL">
+      <node ref="R6" pin="2"/>
+      <node ref="SCL1" pin="1"/>
+      <node ref="U4" pin="43"/>
+      <node ref="U4" pin="42"/>
+      <node ref="U3" pin="42"/>
+      <node ref="U1" pin="42"/>
+    </net>
+    <net code="66" name="/SDA">
+      <node ref="SDA1" pin="1"/>
+      <node ref="U3" pin="41"/>
+      <node ref="R5" pin="2"/>
+      <node ref="U1" pin="43"/>
+      <node ref="U4" pin="41"/>
+    </net>
+    <net code="67" name="/RowEncoder">
+      <node ref="SW4" pin="S2"/>
+      <node ref="SW3" pin="S1"/>
+      <node ref="U1" pin="37"/>
+    </net>
+    <net code="68" name="/Row0">
+      <node ref="D6" pin="1"/>
+      <node ref="D14" pin="1"/>
+      <node ref="D4" pin="1"/>
+      <node ref="D9" pin="1"/>
+      <node ref="D5" pin="1"/>
+      <node ref="D3" pin="1"/>
+      <node ref="D1" pin="1"/>
+      <node ref="D2" pin="1"/>
+      <node ref="D15" pin="1"/>
+      <node ref="D16" pin="1"/>
+      <node ref="D13" pin="1"/>
+      <node ref="D8" pin="1"/>
+      <node ref="D11" pin="1"/>
+      <node ref="D12" pin="1"/>
+      <node ref="D10" pin="1"/>
+      <node ref="U1" pin="38"/>
+      <node ref="D7" pin="1"/>
+    </net>
+    <net code="69" name="/EncoderA_2">
+      <node ref="SW3" pin="A"/>
+      <node ref="U1" pin="34"/>
+    </net>
+    <net code="70" name="/EncoderB_2">
+      <node ref="U1" pin="31"/>
+      <node ref="SW3" pin="B"/>
+    </net>
+    <net code="71" name="/Col0">
+      <node ref="S1" pin="1"/>
+      <node ref="S32" pin="1"/>
+      <node ref="U1" pin="25"/>
+      <node ref="SW3" pin="S2"/>
+      <node ref="S75" pin="1"/>
+      <node ref="S47" pin="1"/>
+      <node ref="S17" pin="1"/>
+      <node ref="S61" pin="1"/>
+    </net>
+    <net code="72" name="Net-(C21-Pad1)">
+      <node ref="C21" pin="1"/>
+      <node ref="R9" pin="1"/>
+      <node ref="U3" pin="46"/>
+    </net>
+    <net code="73" name="/3.3V_LDO">
+      <node ref="C20" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U1" pin="48"/>
+      <node ref="C4" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="24"/>
+      <node ref="U1" pin="9"/>
+      <node ref="U1" pin="36"/>
+      <node ref="U4" pin="39"/>
+      <node ref="IC2" pin="5"/>
+      <node ref="R10" pin="2"/>
+      <node ref="R9" pin="2"/>
+      <node ref="R6" pin="1"/>
+      <node ref="U3" pin="39"/>
+      <node ref="3V3" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U2" pin="5"/>
+      <node ref="C25" pin="1"/>
+      <node ref="SW2" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="R5" pin="1"/>
+    </net>
+    <net code="74" name="Net-(U3-Pad40)">
+      <node ref="U3" pin="40"/>
+    </net>
+    <net code="75" name="Net-(U3-Pad45)">
+      <node ref="U3" pin="45"/>
+    </net>
+    <net code="76" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2"/>
+      <node ref="U3" pin="47"/>
+    </net>
+    <net code="77" name="Net-(R14-Pad2)">
+      <node ref="U4" pin="35"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="78" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1"/>
+      <node ref="U4" pin="46"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="79" name="VBUS">
+      <node ref="USB1" pin="2"/>
+      <node ref="IC1" pin="4"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="USB1" pin="11"/>
+      <node ref="5V0" pin="1"/>
+      <node ref="C7" pin="1"/>
+    </net>
+    <net code="80" name="/USB_RAW_P">
+      <node ref="IC2" pin="6"/>
+      <node ref="USBRP1" pin="1"/>
+      <node ref="USB1" pin="6"/>
+      <node ref="USB1" pin="8"/>
+    </net>
+    <net code="81" name="/USB_RAW_N">
+      <node ref="USB1" pin="5"/>
+      <node ref="USB1" pin="7"/>
+      <node ref="USBRN1" pin="1"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="82" name="/USB_D_P">
+      <node ref="USBDP1" pin="1"/>
+      <node ref="IC2" pin="1"/>
+      <node ref="U1" pin="33"/>
+    </net>
+    <net code="83" name="/USB_D_N">
+      <node ref="U1" pin="32"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="USBDN1" pin="1"/>
+    </net>
+    <net code="84" name="/PC13">
+      <node ref="PC13" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="85" name="/3.9V_SMPS">
+      <node ref="C8" pin="1"/>
+      <node ref="U3" pin="37"/>
+      <node ref="L1" pin="1"/>
+      <node ref="U2" pin="3"/>
+      <node ref="U3" pin="29"/>
+      <node ref="U3" pin="38"/>
+      <node ref="U3" pin="20"/>
+      <node ref="U4" pin="20"/>
+      <node ref="U4" pin="29"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U4" pin="38"/>
+      <node ref="U4" pin="37"/>
+      <node ref="C14" pin="1"/>
+      <node ref="C13" pin="1"/>
+      <node ref="3V9" pin="1"/>
+      <node ref="R3" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="C11" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C15" pin="1"/>
+      <node ref="C16" pin="1"/>
+      <node ref="C17" pin="1"/>
+      <node ref="C18" pin="1"/>
+    </net>
+    <net code="86" name="/PF1">
+      <node ref="C24" pin="2"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="87" name="/PF0">
+      <node ref="Y1" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="U1" pin="5"/>
+    </net>
+    <net code="88" name="/CS16_2">
+      <node ref="U4" pin="33"/>
+      <node ref="D189" pin="4"/>
+    </net>
+    <net code="89" name="/Col15">
+      <node ref="S16" pin="1"/>
+      <node ref="S84" pin="1"/>
+      <node ref="S74" pin="1"/>
+      <node ref="S46" pin="1"/>
+      <node ref="S31" pin="1"/>
+      <node ref="S60" pin="1"/>
+      <node ref="SW4" pin="S1"/>
+      <node ref="U1" pin="12"/>
+    </net>
+    <net code="90" name="Net-(D85-Pad2)">
+      <node ref="S85" pin="2"/>
+      <node ref="D85" pin="2"/>
+    </net>
+    <net code="91" name="Net-(D86-Pad2)">
+      <node ref="S86" pin="2"/>
+      <node ref="D86" pin="2"/>
+    </net>
+    <net code="92" name="/Col11">
+      <node ref="S28" pin="1"/>
+      <node ref="U1" pin="16"/>
+      <node ref="S58" pin="1"/>
+      <node ref="S71" pin="1"/>
+      <node ref="S12" pin="1"/>
+      <node ref="S80" pin="1"/>
+      <node ref="S43" pin="1"/>
+    </net>
+    <net code="93" name="Net-(D55-Pad2)">
+      <node ref="D55" pin="2"/>
+      <node ref="S55" pin="2"/>
+    </net>
+    <net code="94" name="Net-(D56-Pad2)">
+      <node ref="D56" pin="2"/>
+      <node ref="S56" pin="2"/>
+    </net>
+    <net code="95" name="Net-(D57-Pad2)">
+      <node ref="D57" pin="2"/>
+      <node ref="S57" pin="2"/>
+    </net>
+    <net code="96" name="Net-(D52-Pad2)">
+      <node ref="D52" pin="2"/>
+      <node ref="S52" pin="2"/>
+    </net>
+    <net code="97" name="Net-(D53-Pad2)">
+      <node ref="S53" pin="2"/>
+      <node ref="D53" pin="2"/>
+    </net>
+    <net code="98" name="Net-(D54-Pad2)">
+      <node ref="S54" pin="2"/>
+      <node ref="D54" pin="2"/>
+    </net>
+    <net code="99" name="Net-(D65-Pad2)">
+      <node ref="D65" pin="2"/>
+      <node ref="S65" pin="2"/>
+    </net>
+    <net code="100" name="Net-(D66-Pad2)">
+      <node ref="S66" pin="2"/>
+      <node ref="D66" pin="2"/>
+    </net>
+    <net code="101" name="Net-(D67-Pad2)">
+      <node ref="D67" pin="2"/>
+      <node ref="S67" pin="2"/>
+    </net>
+    <net code="102" name="Net-(D58-Pad2)">
+      <node ref="D58" pin="2"/>
+      <node ref="S58" pin="2"/>
+    </net>
+    <net code="103" name="Net-(D59-Pad2)">
+      <node ref="D59" pin="2"/>
+      <node ref="S59" pin="2"/>
+    </net>
+    <net code="104" name="Net-(D64-Pad2)">
+      <node ref="S64" pin="2"/>
+      <node ref="D64" pin="2"/>
+    </net>
+    <net code="105" name="Net-(D39-Pad2)">
+      <node ref="S39" pin="2"/>
+      <node ref="D39" pin="2"/>
+    </net>
+    <net code="106" name="Net-(D40-Pad2)">
+      <node ref="S40" pin="2"/>
+      <node ref="D40" pin="2"/>
+    </net>
+    <net code="107" name="Net-(D41-Pad2)">
+      <node ref="S41" pin="2"/>
+      <node ref="D41" pin="2"/>
+    </net>
+    <net code="108" name="Net-(D36-Pad2)">
+      <node ref="D36" pin="2"/>
+      <node ref="S36" pin="2"/>
+    </net>
+    <net code="109" name="Net-(D37-Pad2)">
+      <node ref="S37" pin="2"/>
+      <node ref="D37" pin="2"/>
+    </net>
+    <net code="110" name="Net-(D42-Pad2)">
+      <node ref="D42" pin="2"/>
+      <node ref="S42" pin="2"/>
+    </net>
+    <net code="111" name="Net-(D38-Pad2)">
+      <node ref="S38" pin="2"/>
+      <node ref="D38" pin="2"/>
+    </net>
+    <net code="112" name="Net-(D45-Pad2)">
+      <node ref="D45" pin="2"/>
+      <node ref="S45" pin="2"/>
+    </net>
+    <net code="113" name="Net-(D50-Pad2)">
+      <node ref="D50" pin="2"/>
+      <node ref="S50" pin="2"/>
+    </net>
+    <net code="114" name="Net-(D51-Pad2)">
+      <node ref="S51" pin="2"/>
+      <node ref="D51" pin="2"/>
+    </net>
+    <net code="115" name="Net-(D43-Pad2)">
+      <node ref="D43" pin="2"/>
+      <node ref="S43" pin="2"/>
+    </net>
+    <net code="116" name="Net-(D44-Pad2)">
+      <node ref="S44" pin="2"/>
+      <node ref="D44" pin="2"/>
+    </net>
+    <net code="117" name="Net-(D71-Pad2)">
+      <node ref="S71" pin="2"/>
+      <node ref="D71" pin="2"/>
+    </net>
+    <net code="118" name="Net-(D72-Pad2)">
+      <node ref="S72" pin="2"/>
+      <node ref="D72" pin="2"/>
+    </net>
+    <net code="119" name="Net-(D73-Pad2)">
+      <node ref="D73" pin="2"/>
+      <node ref="S73" pin="2"/>
+    </net>
+    <net code="120" name="Net-(D68-Pad2)">
+      <node ref="D68" pin="2"/>
+      <node ref="S68" pin="2"/>
+    </net>
+    <net code="121" name="Net-(D69-Pad2)">
+      <node ref="D69" pin="2"/>
+      <node ref="S69" pin="2"/>
+    </net>
+    <net code="122" name="Net-(D70-Pad2)">
+      <node ref="D70" pin="2"/>
+      <node ref="S70" pin="2"/>
+    </net>
+    <net code="123" name="Net-(D80-Pad2)">
+      <node ref="D80" pin="2"/>
+      <node ref="S80" pin="2"/>
+    </net>
+    <net code="124" name="Net-(D79-Pad2)">
+      <node ref="D79" pin="2"/>
+      <node ref="S79" pin="2"/>
+    </net>
+    <net code="125" name="Net-(D83-Pad2)">
+      <node ref="D83" pin="2"/>
+      <node ref="S83" pin="2"/>
+    </net>
+    <net code="126" name="Net-(D82-Pad2)">
+      <node ref="D82" pin="2"/>
+      <node ref="S82" pin="2"/>
+    </net>
+    <net code="127" name="Net-(D81-Pad2)">
+      <node ref="S81" pin="2"/>
+      <node ref="D81" pin="2"/>
+    </net>
+    <net code="128" name="Net-(D49-Pad2)">
+      <node ref="D49" pin="2"/>
+      <node ref="S49" pin="2"/>
+    </net>
+    <net code="129" name="Net-(D63-Pad2)">
+      <node ref="S63" pin="2"/>
+      <node ref="D63" pin="2"/>
+    </net>
+    <net code="130" name="Net-(D34-Pad2)">
+      <node ref="D34" pin="2"/>
+      <node ref="S34" pin="2"/>
+    </net>
+    <net code="131" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2"/>
+      <node ref="S20" pin="2"/>
+    </net>
+    <net code="132" name="Net-(D33-Pad2)">
+      <node ref="S33" pin="2"/>
+      <node ref="D33" pin="2"/>
+    </net>
+    <net code="133" name="Net-(D48-Pad2)">
+      <node ref="D48" pin="2"/>
+      <node ref="S48" pin="2"/>
+    </net>
+    <net code="134" name="Net-(D62-Pad2)">
+      <node ref="S62" pin="2"/>
+      <node ref="D62" pin="2"/>
+    </net>
+    <net code="135" name="Net-(D6-Pad2)">
+      <node ref="S6" pin="2"/>
+      <node ref="D6" pin="2"/>
+    </net>
+    <net code="136" name="Net-(D21-Pad2)">
+      <node ref="S21" pin="2"/>
+      <node ref="D21" pin="2"/>
+    </net>
+    <net code="137" name="Net-(D22-Pad2)">
+      <node ref="S22" pin="2"/>
+      <node ref="D22" pin="2"/>
+    </net>
+    <net code="138" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2"/>
+      <node ref="S23" pin="2"/>
+    </net>
+    <net code="139" name="Net-(D4-Pad2)">
+      <node ref="S4" pin="2"/>
+      <node ref="D4" pin="2"/>
+    </net>
+    <net code="140" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2"/>
+      <node ref="S5" pin="2"/>
+    </net>
+    <net code="141" name="Net-(D3-Pad2)">
+      <node ref="S3" pin="2"/>
+      <node ref="D3" pin="2"/>
+    </net>
+    <net code="142" name="Net-(D18-Pad2)">
+      <node ref="S18" pin="2"/>
+      <node ref="D18" pin="2"/>
+    </net>
+    <net code="143" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2"/>
+      <node ref="S19" pin="2"/>
+    </net>
+    <net code="144" name="Net-(D1-Pad2)">
+      <node ref="S1" pin="2"/>
+      <node ref="D1" pin="2"/>
+    </net>
+    <net code="145" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2"/>
+      <node ref="S17" pin="2"/>
+    </net>
+    <net code="146" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2"/>
+      <node ref="S2" pin="2"/>
+    </net>
+    <net code="147" name="Net-(D75-Pad2)">
+      <node ref="S75" pin="2"/>
+      <node ref="D75" pin="2"/>
+    </net>
+    <net code="148" name="Net-(D76-Pad2)">
+      <node ref="S76" pin="2"/>
+      <node ref="D76" pin="2"/>
+    </net>
+    <net code="149" name="Net-(D61-Pad2)">
+      <node ref="S61" pin="2"/>
+      <node ref="D61" pin="2"/>
+    </net>
+    <net code="150" name="Net-(D77-Pad2)">
+      <node ref="S77" pin="2"/>
+      <node ref="D77" pin="2"/>
+    </net>
+    <net code="151" name="Net-(D32-Pad2)">
+      <node ref="S32" pin="2"/>
+      <node ref="D32" pin="2"/>
+    </net>
+    <net code="152" name="Net-(D47-Pad2)">
+      <node ref="D47" pin="2"/>
+      <node ref="S47" pin="2"/>
+    </net>
+    <net code="153" name="Net-(D15-Pad2)">
+      <node ref="S15" pin="2"/>
+      <node ref="D15" pin="2"/>
+    </net>
+    <net code="154" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2"/>
+      <node ref="S16" pin="2"/>
+    </net>
+    <net code="155" name="Net-(D30-Pad2)">
+      <node ref="S30" pin="2"/>
+      <node ref="D30" pin="2"/>
+    </net>
+    <net code="156" name="Net-(D29-Pad2)">
+      <node ref="S29" pin="2"/>
+      <node ref="D29" pin="2"/>
+    </net>
+    <net code="157" name="Net-(D13-Pad2)">
+      <node ref="S13" pin="2"/>
+      <node ref="D13" pin="2"/>
+    </net>
+    <net code="158" name="Net-(D31-Pad2)">
+      <node ref="D31" pin="2"/>
+      <node ref="S31" pin="2"/>
+    </net>
+    <net code="159" name="Net-(D14-Pad2)">
+      <node ref="S14" pin="2"/>
+      <node ref="D14" pin="2"/>
+    </net>
+    <net code="160" name="Net-(D74-Pad2)">
+      <node ref="D74" pin="2"/>
+      <node ref="S74" pin="2"/>
+    </net>
+    <net code="161" name="Net-(D84-Pad2)">
+      <node ref="D84" pin="2"/>
+      <node ref="S84" pin="2"/>
+    </net>
+    <net code="162" name="Net-(D35-Pad2)">
+      <node ref="S35" pin="2"/>
+      <node ref="D35" pin="2"/>
+    </net>
+    <net code="163" name="Net-(D46-Pad2)">
+      <node ref="S46" pin="2"/>
+      <node ref="D46" pin="2"/>
+    </net>
+    <net code="164" name="Net-(D60-Pad2)">
+      <node ref="D60" pin="2"/>
+      <node ref="S60" pin="2"/>
+    </net>
+    <net code="165" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2"/>
+      <node ref="S25" pin="2"/>
+    </net>
+    <net code="166" name="Net-(D24-Pad2)">
+      <node ref="S24" pin="2"/>
+      <node ref="D24" pin="2"/>
+    </net>
+    <net code="167" name="Net-(D9-Pad2)">
+      <node ref="S9" pin="2"/>
+      <node ref="D9" pin="2"/>
+    </net>
+    <net code="168" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2"/>
+      <node ref="S10" pin="2"/>
+    </net>
+    <net code="169" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2"/>
+      <node ref="S7" pin="2"/>
+    </net>
+    <net code="170" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2"/>
+      <node ref="S8" pin="2"/>
+    </net>
+    <net code="171" name="Net-(D11-Pad2)">
+      <node ref="S11" pin="2"/>
+      <node ref="D11" pin="2"/>
+    </net>
+    <net code="172" name="Net-(D12-Pad2)">
+      <node ref="S12" pin="2"/>
+      <node ref="D12" pin="2"/>
+    </net>
+    <net code="173" name="Net-(D28-Pad2)">
+      <node ref="S28" pin="2"/>
+      <node ref="D28" pin="2"/>
+    </net>
+    <net code="174" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2"/>
+      <node ref="S26" pin="2"/>
+    </net>
+    <net code="175" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2"/>
+      <node ref="S27" pin="2"/>
+    </net>
+    <net code="176" name="Net-(U2-Pad4)">
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="177" name="Net-(USB1-Pad3)">
+      <node ref="USB1" pin="3"/>
+    </net>
+    <net code="178" name="Net-(USB1-Pad9)">
+      <node ref="USB1" pin="9"/>
+    </net>
+    <net code="179" name="Net-(R7-Pad1)">
+      <node ref="R7" pin="1"/>
+      <node ref="USB1" pin="10"/>
+    </net>
+    <net code="180" name="Net-(R8-Pad1)">
+      <node ref="USB1" pin="4"/>
+      <node ref="R8" pin="1"/>
+    </net>
+    <net code="181" name="Net-(C6-Pad1)">
+      <node ref="C6" pin="1"/>
+      <node ref="PS1" pin="1"/>
+      <node ref="IC1" pin="1"/>
+      <node ref="PS1" pin="4"/>
+    </net>
+    <net code="182" name="Net-(L1-Pad2)">
+      <node ref="PS1" pin="3"/>
+      <node ref="L1" pin="2"/>
+    </net>
+    <net code="183" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="184" name="Net-(C9-Pad1)">
+      <node ref="R3" pin="1"/>
+      <node ref="R2" pin="1"/>
+      <node ref="PS1" pin="5"/>
+      <node ref="C9" pin="1"/>
+    </net>
+    <net code="185" name="Net-(IC1-Pad3)">
+      <node ref="IC1" pin="3"/>
+    </net>
+    <net code="186" name="/Col5">
+      <node ref="S37" pin="1"/>
+      <node ref="U1" pin="30"/>
+      <node ref="S22" pin="1"/>
+      <node ref="S65" pin="1"/>
+      <node ref="S52" pin="1"/>
+      <node ref="S6" pin="1"/>
+    </net>
+    <net code="187" name="/Col4">
+      <node ref="S5" pin="1"/>
+      <node ref="S85" pin="1"/>
+      <node ref="S64" pin="1"/>
+      <node ref="S21" pin="1"/>
+      <node ref="S36" pin="1"/>
+      <node ref="S51" pin="1"/>
+      <node ref="U1" pin="29"/>
+    </net>
+    <net code="188" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2"/>
+      <node ref="SW1" pin="2"/>
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="189" name="/PA0">
+      <node ref="U1" pin="10"/>
+      <node ref="PA0" pin="1"/>
+    </net>
+    <net code="190" name="/PA1">
+      <node ref="PA1" pin="1"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="191" name="/Col3">
+      <node ref="U1" pin="28"/>
+      <node ref="S35" pin="1"/>
+      <node ref="S63" pin="1"/>
+      <node ref="S20" pin="1"/>
+      <node ref="S4" pin="1"/>
+      <node ref="S50" pin="1"/>
+    </net>
+    <net code="192" name="/Col10">
+      <node ref="S42" pin="1"/>
+      <node ref="U1" pin="17"/>
+      <node ref="S70" pin="1"/>
+      <node ref="S79" pin="1"/>
+      <node ref="S57" pin="1"/>
+      <node ref="S27" pin="1"/>
+      <node ref="S11" pin="1"/>
+    </net>
+    <net code="193" name="/EncoderA_1">
+      <node ref="U1" pin="3"/>
+      <node ref="SW4" pin="A"/>
+    </net>
+    <net code="194" name="/EncoderB_1">
+      <node ref="SW4" pin="B"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="195" name="/Col14">
+      <node ref="S15" pin="1"/>
+      <node ref="S73" pin="1"/>
+      <node ref="U1" pin="13"/>
+      <node ref="S83" pin="1"/>
+    </net>
+    <net code="196" name="/Col13">
+      <node ref="U1" pin="14"/>
+      <node ref="S45" pin="1"/>
+      <node ref="S14" pin="1"/>
+      <node ref="S82" pin="1"/>
+      <node ref="S30" pin="1"/>
+    </net>
+    <net code="197" name="/Col12">
+      <node ref="S44" pin="1"/>
+      <node ref="S81" pin="1"/>
+      <node ref="U1" pin="15"/>
+      <node ref="S59" pin="1"/>
+      <node ref="S29" pin="1"/>
+      <node ref="S72" pin="1"/>
+      <node ref="S13" pin="1"/>
+    </net>
+    <net code="198" name="/Col9">
+      <node ref="S26" pin="1"/>
+      <node ref="S10" pin="1"/>
+      <node ref="S69" pin="1"/>
+      <node ref="S56" pin="1"/>
+      <node ref="U1" pin="18"/>
+      <node ref="S41" pin="1"/>
+    </net>
+    <net code="199" name="/Col8">
+      <node ref="U1" pin="19"/>
+      <node ref="S86" pin="1"/>
+      <node ref="S9" pin="1"/>
+      <node ref="S68" pin="1"/>
+      <node ref="S55" pin="1"/>
+      <node ref="S25" pin="1"/>
+      <node ref="S40" pin="1"/>
+    </net>
+    <net code="200" name="/Col6">
+      <node ref="S66" pin="1"/>
+      <node ref="S23" pin="1"/>
+      <node ref="S7" pin="1"/>
+      <node ref="S53" pin="1"/>
+      <node ref="S38" pin="1"/>
+      <node ref="S78" pin="2"/>
+      <node ref="U1" pin="21"/>
+    </net>
+    <net code="201" name="/Col1">
+      <node ref="U1" pin="26"/>
+      <node ref="S76" pin="1"/>
+      <node ref="S18" pin="1"/>
+      <node ref="S2" pin="1"/>
+      <node ref="S48" pin="1"/>
+      <node ref="S33" pin="1"/>
+    </net>
+    <net code="202" name="/Col2">
+      <node ref="S19" pin="1"/>
+      <node ref="S62" pin="1"/>
+      <node ref="S3" pin="1"/>
+      <node ref="U1" pin="27"/>
+      <node ref="S49" pin="1"/>
+      <node ref="S77" pin="1"/>
+      <node ref="S34" pin="1"/>
+    </net>
+    <net code="203" name="/Col7">
+      <node ref="U1" pin="20"/>
+      <node ref="S8" pin="1"/>
+      <node ref="S54" pin="1"/>
+      <node ref="S67" pin="1"/>
+      <node ref="S39" pin="1"/>
+      <node ref="S24" pin="1"/>
+    </net>
+    <net code="204" name="/Row2">
+      <node ref="D34" pin="1"/>
+      <node ref="D33" pin="1"/>
+      <node ref="D32" pin="1"/>
+      <node ref="D45" pin="1"/>
+      <node ref="D38" pin="1"/>
+      <node ref="D43" pin="1"/>
+      <node ref="D44" pin="1"/>
+      <node ref="D36" pin="1"/>
+      <node ref="D35" pin="1"/>
+      <node ref="U1" pin="40"/>
+      <node ref="D41" pin="1"/>
+      <node ref="D40" pin="1"/>
+      <node ref="D46" pin="1"/>
+      <node ref="D39" pin="1"/>
+      <node ref="D42" pin="1"/>
+      <node ref="D37" pin="1"/>
+    </net>
+    <net code="205" name="/Row3">
+      <node ref="D48" pin="1"/>
+      <node ref="D52" pin="1"/>
+      <node ref="D49" pin="1"/>
+      <node ref="D60" pin="1"/>
+      <node ref="D55" pin="1"/>
+      <node ref="D57" pin="1"/>
+      <node ref="D56" pin="1"/>
+      <node ref="D53" pin="1"/>
+      <node ref="D50" pin="1"/>
+      <node ref="D47" pin="1"/>
+      <node ref="D54" pin="1"/>
+      <node ref="D59" pin="1"/>
+      <node ref="D58" pin="1"/>
+      <node ref="U1" pin="45"/>
+      <node ref="D51" pin="1"/>
+    </net>
+    <net code="206" name="/Row4">
+      <node ref="D61" pin="1"/>
+      <node ref="D62" pin="1"/>
+      <node ref="D63" pin="1"/>
+      <node ref="D67" pin="1"/>
+      <node ref="D74" pin="1"/>
+      <node ref="D71" pin="1"/>
+      <node ref="D72" pin="1"/>
+      <node ref="D73" pin="1"/>
+      <node ref="D64" pin="1"/>
+      <node ref="U1" pin="46"/>
+      <node ref="D65" pin="1"/>
+      <node ref="D70" pin="1"/>
+      <node ref="D69" pin="1"/>
+      <node ref="D66" pin="1"/>
+      <node ref="D68" pin="1"/>
+    </net>
+    <net code="207" name="/Row5">
+      <node ref="D77" pin="1"/>
+      <node ref="D81" pin="1"/>
+      <node ref="D75" pin="1"/>
+      <node ref="D76" pin="1"/>
+      <node ref="D78" pin="1"/>
+      <node ref="U1" pin="22"/>
+      <node ref="D79" pin="1"/>
+      <node ref="D83" pin="1"/>
+      <node ref="D82" pin="1"/>
+      <node ref="D86" pin="1"/>
+      <node ref="D80" pin="1"/>
+      <node ref="D84" pin="1"/>
+      <node ref="D85" pin="1"/>
+    </net>
+    <net code="208" name="/Row1">
+      <node ref="D18" pin="1"/>
+      <node ref="U1" pin="39"/>
+      <node ref="D20" pin="1"/>
+      <node ref="D22" pin="1"/>
+      <node ref="D21" pin="1"/>
+      <node ref="D27" pin="1"/>
+      <node ref="D31" pin="1"/>
+      <node ref="D28" pin="1"/>
+      <node ref="D24" pin="1"/>
+      <node ref="D30" pin="1"/>
+      <node ref="D19" pin="1"/>
+      <node ref="D23" pin="1"/>
+      <node ref="D29" pin="1"/>
+      <node ref="D17" pin="1"/>
+      <node ref="D26" pin="1"/>
+      <node ref="D25" pin="1"/>
+    </net>
+    <net code="209" name="Net-(R1-Pad1)">
+      <node ref="U1" pin="44"/>
+      <node ref="SW2" pin="1"/>
+      <node ref="R1" pin="1"/>
+    </net>
+    <net code="210" name="Net-(U3-Pad36)">
+      <node ref="U3" pin="36"/>
+    </net>
+    <net code="211" name="Net-(U3-Pad1)">
+      <node ref="U3" pin="1"/>
+    </net>
+  </nets>
+</export>
