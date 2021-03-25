@@ -1,0 +1,33 @@
+Item,Qty,Reference(s),Value,Footprint,,"Source
+",Price,Min Qty,Total,,Notes
+1,3,"C1, C21, C22",100n,603,,https://lcsc.com/product-detail/Others_VISHAY_VJ0603Y104KXACW1BC_0-1uF-50V-X7R-10_C161854.html,0.02164,20,0.4328,9,General caps
+2,17,"C2-C7, C10-C13, C15-C17, C19, C20, C25, C26",4.7u,603,,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_muRata_GRM188R60J106KE47D_10uF-106-10-6-3V_C77040.html,0.010791,50,0.53955,51,Bulk caps
+3,3,"C8, C14, C18",100u,7343,,https://lcsc.com/product-detail/Solid-Polymer-Electrolytic-Capacitor_PANASONIC-EEFCX0J151YR_C178635.html,0.274242,1,0.822726,9,Bulk caps
+4,1,C9,22p,603,,https://lcsc.com/product-detail/New-Arrivals_TDK-C1608C0G2A220JT000N_C342563.html,0.017455,20,0.3491,3,SMPS capacitor
+5,0,"C23, C24",12p,603,,Not required,,,0,0,Optional capacitors for external resonator
+6,86,D1-D86,D_ALT,SOD-123,,https://lcsc.com/product-detail/Switching-Diode_DIODES_1N4148W-7-F_1N4148W-7-F_C83528.html,0.005221,50,0.449006,258,Switch diodes
+7,86,D87-D172,LED_ABGR,Reverse 1205,,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_MEIHUA-MHT150RGBCT_C409782.html,0.074446,50,6.402356,258,Switch LED
+8,36,D173-D208,LED_RGBA,Side 1204,,https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_EKINGLUX-E6C1204RGBC3UDA_C375570.html,0.053307,10,1.919052,108,Underglow LED
+9,1,IC1,AP2151,SOT25,,https://lcsc.com/product-detail/Others_Diodes-Incorporated_AP2151DWG-7_Diodes-Incorporated-AP2151DWG-7_C264075.html,0.145455,1,0.145455,3,USB power protection
+10,1,IC2,USBUF01W6,SOT-323-6L,,https://lcsc.com/product-detail/EMI-RFI-Filters-LC-RC-Networks_STMicroelectronics_USBUF01W6_STMicroelectronics-USBUF01W6_C123726.html,0.178788,1,0.178788,3,USB digital protection
+11,1,L1,2.2uH,2.5x2.0mm,,https://lcsc.com/product-detail/Others_Sumida-252012CDMCDDS-2R2MC_C351245.html,0.067222,5,0.33611,3,SMPS inductor
+12,1,LS1,FUET-9018,9x9mm,,https://lcsc.com/product-detail/Buzzers_FUET-FST-9018_C391035.html,0.425758,1,0.425758,3,Piezo Buzzer (optional)
+13,1,PS1,AP3429KTTR-G1,TSOT25,,https://lcsc.com/product-detail/DC-DC-Converters_Diodes-Incorporated-AP3429AKTTR-G1_C441814.html,0.070557,5,0.352785,3,LED power supply
+14,9,"R1, R2, R4, R9-R14",20k,603,,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_20KR-2002-1_C160027.html,0.002696,100,0.2696,27,General resistor
+15,1,R3,220k,603,,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Walsin-Tech-Corp-WR06X2203FTL_C163882.html,0.002872,100,0.2872,3,SMPS resistor
+16,4,"R5, R6, R7, R8",5.1k,603,,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_5-1KR-512-5_C144594.html,0.00155,100,0.155,12,USB resistor
+17,86,S1-86,SW,Kailh hotswap,,https://kbdfans.com/products/mechanical-keyboard-switches-kailh-pcb-socket,0.1,1,8.6,258,Switch sockets
+18,2,"SW1, SW2",SW_Push,,,https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1187SQ-A4SW-06_C92584.html,0.0467,10,0.467,6,Reset switches
+19,2,"SW3, SW4",Rotary_Encoder_Switch,,,https://www.digikey.com/product-detail/en/PEC11R-4220K-S0024/PEC11R-4220K-S0024-ND/6164059,1.68,1,3.36,6,Rotary Encoders
+20,1,U1,STM32F072CBTx,LQFP-48,,https://lcsc.com/product-detail/ST-Microelectronics_STMicroelectronics_STM32F072CBT6_STM32F072CBT6_C81720.html,1.566667,1,1.566667,3,MCU
+21,1,U2,AP2127K-3.3,SOT23-5,,https://lcsc.com/product-detail/Low-Dropout-Regulators-LDO_DIODES_AP2127K-3-3TRG1_AP2127K-3-3TRG1_C156285.html,0.071655,5,0.358275,3,Digital LDO
+22,2,"U3, U4",IS31FL3733-TQ,,,https://www.mouser.com/ProductDetail/ISSI/IS31FL3733-TQLS4?qs=%2Fha2pyFaduiBo9Tg9uLFfdzIE5Iu904O5runeBnIgmxopsSL2fguS3a%2FANk9EqFs,3.27,1,6.54,6,RGB controller
+23,1,USB1,HRO-TYPE-C-31-M-12,,,https://lcsc.com/product-detail/Others_Korean-Hroparts-Elec-TYPE-C-31-M-17_C283540.html,0.209091,1,0.209091,3,Type C connector
+24,0,Y1,Crystal_Small,5032,,Not required,0.262121,1,0.262121,0,MCU has onboard resonator; extra resonator is optional
+,,,,,,,,,,,
+,,,,,,,,,,,
+,2,,Potentiometer Knobs,,,https://www.aliexpress.com/item/32843175222.html?spm=a2g0o.cart.0.0.567f3c00dPio5H&mp=1,0.524,5,2.62,6,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,37.04844,,
