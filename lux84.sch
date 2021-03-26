@@ -1,5 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:Cayenne84-cache
+LIBS:lux84-cache
 EELAYER 30 0
 EELAYER END
 $Descr A1 33110 23386
@@ -4669,8 +4669,6 @@ PA0
 Text Label 30650 3450 0    50   ~ 0
 PA1
 Connection ~ 22850 2000
-Text Notes 1100 22500 0    50   ~ 0
-add test points
 Text Label 20500 11550 2    50   ~ 0
 3.3V_LDO
 Wire Wire Line
@@ -8929,4 +8927,6 @@ F 3 "~" H 21250 18250 50  0001 C CNN
 	1    21050 18250
 	0    -1   -1   0   
 $EndComp
+Text Notes 2300 21800 0    50   ~ 0
+Note: Pin 4 is common anode. The dot on the PCB denotes common anode pin, not Pin 1.
 $EndSCHEMATC

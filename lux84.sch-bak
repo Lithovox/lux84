@@ -8853,10 +8853,10 @@ USB_D_N
 Text Label 19150 19550 0    50   ~ 0
 USB_D_P
 $Comp
-L Connector:TestPoint USBRP
+L Connector:TestPoint USBRP1
 U 1 1 74D59AF2
 P 19150 18950
-F 0 "USBRP" V 19345 19022 50  0000 C CNN
+F 0 "USBRP1" V 19345 19022 50  0000 C CNN
 F 1 "TestPoint" V 19254 19022 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 19350 18950 50  0001 C CNN
 F 3 "~" H 19350 18950 50  0001 C CNN
@@ -8864,10 +8864,10 @@ F 3 "~" H 19350 18950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:TestPoint USBRN
+L Connector:TestPoint USBRN1
 U 1 1 74D59EB2
 P 19150 19250
-F 0 "USBRN" V 19345 19322 50  0000 C CNN
+F 0 "USBRN1" V 19345 19322 50  0000 C CNN
 F 1 "TestPoint" V 19254 19322 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 19350 19250 50  0001 C CNN
 F 3 "~" H 19350 19250 50  0001 C CNN
@@ -8875,10 +8875,10 @@ F 3 "~" H 19350 19250 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:TestPoint USBDP
+L Connector:TestPoint USBDP1
 U 1 1 74D5A3BB
 P 19150 19550
-F 0 "USBDP" V 19345 19622 50  0000 C CNN
+F 0 "USBDP1" V 19345 19622 50  0000 C CNN
 F 1 "TestPoint" V 19254 19622 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 19350 19550 50  0001 C CNN
 F 3 "~" H 19350 19550 50  0001 C CNN
@@ -8886,10 +8886,10 @@ F 3 "~" H 19350 19550 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Connector:TestPoint USBDN
+L Connector:TestPoint USBDN1
 U 1 1 74D5A6F9
 P 19150 19850
-F 0 "USBDN" V 19345 19922 50  0000 C CNN
+F 0 "USBDN1" V 19345 19922 50  0000 C CNN
 F 1 "TestPoint" V 19254 19922 50  0000 C CNN
 F 2 "Measurement_Points:Measurement_Point_Round-TH_Small" H 19350 19850 50  0001 C CNN
 F 3 "~" H 19350 19850 50  0001 C CNN
