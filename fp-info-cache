@@ -1,4 +1,4 @@
-404791544743417
+428398413680615
 Battery_Holders
 Bulgin_BX0036_1xC
 
@@ -42931,6 +42931,13 @@ capacitor tantalum smd
 2
 2
 SamacSys_Parts2
+091020102
+09.10201.02-2
+Switch
+0
+3
+3
+SamacSys_Parts2
 733910070
 73391-0070-1
 Connector
@@ -43113,6 +43120,13 @@ mounting hole 2.2mm m2
 0
 0
 SamacSys_Parts2
+NE555DR
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts2
 PEC11R4220KS0024
 PEC11R-4220K-S0024‎-1
 Hardware
@@ -43141,6 +43155,34 @@ Loudspeaker or Buzzer
 2
 2
 SamacSys_Parts2
+QFN50P300X300X80-17N-D
+RTE  (S-PWQFN-N16)
+Integrated Circuit
+0
+17
+17
+SamacSys_Parts2
+QFN50P400X400X80-21N-D
+S-PWQFN-N20
+Integrated Circuit
+0
+21
+21
+SamacSys_Parts2
+SHDR3W60P0X254_1X3_1000X250X740P
+1K2 standard
+Switch
+0
+3
+3
+SamacSys_Parts2
+SOIC127P600X175-14N
+SOIC-14
+Integrated Circuit
+0
+14
+14
+SamacSys_Parts2
 SOP50P490X110-10N
 DGS (S-PDSO-G10)
 Integrated Circuit
@@ -43148,9 +43190,44 @@ Integrated Circuit
 10
 10
 SamacSys_Parts2
-SOT65P210X110-6N
-SOT323-6L_1
+SOP65P490X110-8N
+DGK (S-PDSO-G8)
 Integrated Circuit
+0
+8
+8
+SamacSys_Parts2
+SOP65P640X120-14N
+PW (R-PDSO-G14)
+Integrated Circuit
+0
+14
+14
+SamacSys_Parts2
+SOP65P640X120-16N
+RU-16 (TSSOP)
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts2
+SOP65P780X200-28N
+DB0028A_A
+Integrated Circuit
+0
+28
+28
+SamacSys_Parts2
+SOT65P210X110-5N
+DCK (R-PDSO-G5)
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts2
+SOT65P210X110-6N
+SOT65P210X110-6N
+Undefined or Miscellaneous
 0
 6
 6
@@ -43183,12 +43260,264 @@ Resistor
 3
 3
 SamacSys_Parts2
+TC33X2105E
+TC33X-2-105E-1
+Variable Resistor
+0
+3
+3
+SamacSys_Parts2
 jachandlerlogo
 
 
 0
 0
 0
+SamacSys_Parts3
+171857-0002
+171857-0002
+Connector
+0
+2
+2
+SamacSys_Parts3
+1825910-6
+1825910-6
+Switch
+0
+4
+4
+SamacSys_Parts3
+ABLS7M2
+ABLS7M2
+Crystal or Oscillator
+0
+2
+2
+SamacSys_Parts3
+CAY16-J4
+CAY16-J4
+Resistor Network
+0
+8
+8
+SamacSys_Parts3
+DIP762W51P254L851H508Q6N
+6-pin DIP Through Hole
+Integrated Circuit
+0
+6
+6
+SamacSys_Parts3
+EC2-12NU
+EC2-12NU
+Relay or Contactor
+0
+8
+8
+SamacSys_Parts3
+HDRV8W64P254_2X4_1016X508X874P
+2213S-08G
+Connector
+0
+8
+8
+SamacSys_Parts3
+IRM035
+IRM-03-5
+Power Supply
+0
+5
+5
+SamacSys_Parts3
+IRM2024
+IRM-20-24
+Power Supply
+0
+4
+4
+SamacSys_Parts3
+KC3225K
+KC3225
+Crystal or Oscillator
+0
+4
+4
+SamacSys_Parts3
+OS102011MA1QN1
+OS102011MA1QN1
+Switch
+0
+5
+5
+SamacSys_Parts3
+OXEUDLJANF49152000
+OXEUDLJANF-49.152000
+Crystal or Oscillator
+0
+4
+4
+SamacSys_Parts3
+QFN50P400X400X100-25N
+RGE(S-PVQFN-N24)
+Integrated Circuit
+0
+25
+25
+SamacSys_Parts3
+QFN50P400X400X100-25N-D
+24-Pin SQFN
+Integrated Circuit
+0
+25
+25
+SamacSys_Parts3
+QFN50P600X600X100-37N-D
+M2 - 36SQFN-3706-6x6B
+Integrated Circuit
+0
+37
+37
+SamacSys_Parts3
+QFP50P900X900X160-48N
+LQFP48_2
+Integrated Circuit
+0
+48
+48
+SamacSys_Parts3
+QFP50P1200X1200X120-65N
+TQ64
+Integrated Circuit
+0
+65
+65
+SamacSys_Parts3
+QFP50P1600X1600X160-100N
+LQFP-100 (16 x 16mm)_1
+Integrated Circuit
+0
+100
+100
+SamacSys_Parts3
+SODFL1608X59N
+SC79
+Diode
+0
+2
+2
+SamacSys_Parts3
+SOIC127P600X175-8N
+D (R-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts3
+SOIC127P600X175-14N
+D(R-DPSO-G14)
+Integrated Circuit
+0
+14
+14
+SamacSys_Parts3
+SOIC127P600X175-16N
+SOT 109-1(SO16)
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts3
+SON50P250X270X60-11N
+PLP10-2725
+Integrated Circuit
+0
+11
+11
+SamacSys_Parts3
+SON50P300X300X80-9N-D
+DRG (S-PWSON-N8)
+Integrated Circuit
+0
+9
+9
+SamacSys_Parts3
+SOP50P490X110-10N
+DGS (S-PDSO-G10)
+Integrated Circuit
+0
+10
+10
+SamacSys_Parts3
+SOP50P1400X120-32N
+32-Pin Thin Small Outline Package (VSOP - 8 mm x 14 mm)
+Integrated Circuit
+0
+32
+32
+SamacSys_Parts3
+SOP65P490X110-8N
+DGK (S-PDSO-G8)
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts3
+SOT65P210X110-6N
+DCK (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+SamacSys_Parts3
+SOT65P280X100-8N
+SOT65P280X100-8N
+Integrated Circuit
+0
+8
+8
+SamacSys_Parts3
+SOT95P280X145-5N
+DBV (R-PDSO-G5)
+Integrated Circuit
+0
+5
+5
+SamacSys_Parts3
+SOT96P237X111-3N
+SOT-23 (TO-236) CASE 318-08
+Transistor BJT NPN
+0
+3
+3
+SamacSys_Parts3
+TC33X-2_1
+TC33X-2_1
+Resistor
+0
+3
+3
+SamacSys_Parts3
+TO170P1435X465-6N
+KTT0005B
+Integrated Circuit
+0
+6
+6
+SamacSys_Parts3
+TO254P470X1016X1965-3P
+KCS0003B
+Integrated Circuit
+0
+3
+3
+SamacSys_Parts3
+TO254P482X997X2018-3P
+TO-220 CASE221AB
+Integrated Circuit
+0
+3
+3
 Shielding_Cabinets
 Laird_Technologies_97-2002_25.40x25.40mm
 
